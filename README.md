@@ -23,7 +23,7 @@ This folder contains all content stored in our [ghost](https://github.com/TryGho
 `Unpublished` posts refers to supplementary content only accessible via links inside other posts.  
 `Drafts` are posts that are not yet reviewed, or for other reasons awaiting publication.
 
-All `published` posts are named so that https://blog.joystream.org/`<post-name>` will direct you to the correct posts.
+All `published` posts are named so that blog.joystream.org/`post-name` will direct you to the correct posts.
 
 ## Newsletter
 
