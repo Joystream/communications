@@ -3,11 +3,7 @@
 # Table of contents
 
 - [Communications](#communications)
-  - [Blog](#blog)  
-    - [Published](#blog/published)
-    - [Permanent content](#blog/permanent)
-    - [Unpublished but live](#blog/unpublished)
-    - [Drafts](#blog/drafts)
+  - [Blog](#blog)   
   - [Newsletter](#newsletter)
 
 # Communications
