@@ -1,5 +1,15 @@
 
-# Whitepaper Published
+# Post
+
+## Title
+
+Whitepaper Draft Published
+
+## Cover
+
+<p align="center"><img src="cover-blog.png"></p>
+
+## Body
 
 We are very pleased to share the first public draft of our [whitepaper](https://github.com/Joystream/whitepaper/blob/master/paper.pdf). It is an excellent starting place for getting a concrete indication of where we are going technically, but be very aware that this is a draft document which will be updated on an ongoing basis, as the  preface states
 
@@ -8,3 +18,13 @@ We are very pleased to share the first public draft of our [whitepaper](https://
 Have a look, and please get back to us with questions, fixes and criticism!
 
 <p align="center"><img src="abstract.png"></p>
+
+# Twitter
+
+## Title
+
+Whitepaper Published
+
+## Cover
+
+<p align="center"><img src="cover-twitter.png"></p>
