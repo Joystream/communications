@@ -8,11 +8,15 @@ Runtime Upgrades vs Hardforks
 
 Everyone that has been following this space for a while have seen that hardforks are tricky. Looking at the two most well-known blockchains, e.g. Bitcoin and Ethereum, hardforks (and threats of them) have lead to [never-ending debates](https://en.bitcoin.it/wiki/Block_size_limit_controversy), [power struggles](https://bitcoinexchangeguide.com/new-craig-wright-and-roger-ver-twitter-feud-after-bangkok-meeting-leads-to-new-questions/), [organizational nightmares](https://decryptmedia.com/4520/constantinople-ethereum-hard-fork-upgrade-delay-postponed), and finally [schisms](https://en.wikipedia.org/wiki/Ethereum_Classic).
 
-<#insert image>
+![](https://blog.joystream.org/content/images/2019/03/20904663876_287f1aeeff_z.jpg)
+
+Some forks breaks
 
 In the case of Bitcoin, this has lead to an unwillingness to even consider hardforking for a large part of the ecosystem, leading to significant [kludge](https://en.wikipedia.org/wiki/Kludge) (ref [segwit](https://en.bitcoin.it/wiki/Segregated_Witness)). There is a strong argument to be made this is actually a strength for a project of Bitcoin's scope and size. That is not to say all projects should adopt this approach.
 
-<#insert image>
+![](https://blog.joystream.org/content/images/2019/03/7959772300_7805e85cd6_z.jpg)
+
+Tech moves fast
 
 For a media platform like Joystream, there are a number of non system critical changes that will have to be made as the project gains traction, e.g. changing parameters like [`transfer_fee`](https://github.com/Joystream/substrate-node-joystream/blob/master/src/chain_spec.rs/#L142) and [`validator_count`](https://github.com/Joystream/substrate-node-joystream/blob/master/src/chain_spec.rs/#L164). For a protocol as rigorous as that of Bitcoins, similar changes would require a hardfork. For a protocol built on the Substrate framework, these can be changed trivially with a single [extrensic](https://wiki.parity.io/Extrinsic) (for simplicity, we will just call it transaction) if the pre-defined governance mechanism elects to do so.
 
@@ -32,7 +36,7 @@ In our [genesis](https://github.com/Joystream/substrate-node-joystream/blob/3960
 1.  Directly with a transaction signed by `sudo.key`
 2.  Through a runtime upgrade proposal transaction
 
-<#insert image>
+![](https://blog.joystream.org/content/images/2019/03/ilu_blog.png)
 
 The `sudo.key` address can be found by accessing the testnet UI [settings](https://sparta.joystream.org/apps/#/settings), and changing to `Fully featured` interface. Then, access the `Chain state` from the sidebar, select `Sudo` from the `selected state query` drop down menu, and click the `+` button on the right. We in Jsgenesis control the private key corresponding to this address, allowing us to force through changes. This feature will be removed either when the platform goes live on mainnet, or shortly after a transitional period. Even now, we intend to use it scarcely as possible.
 
@@ -42,9 +46,9 @@ For voting through the new runtime, a [proposal](https://sparta.joystream.org/ap
 
 Perhaps the most interesting aspect of this is that a successful runtime upgrade can introduce new rules and mechanisms for making future runtime changes.
 
-<#insert image>
+![](https://blog.joystream.org/content/images/2019/03/meta-2.jpeg)
 
-The doge approves of this message
+Doge approves
 
 #### The Mechanics of an Upgrade
 
@@ -61,7 +65,9 @@ Conclusion
 
 As with all software implementations, there are trade-offs and compromises. Validators and nodes can manually configure the code to outright reject certain types of transactions or collude to force through their own upgrades if they feel threatened. Bugs can knock-out the whole network simultaneously and chain splits can still occur in certain circumstances. Just as for other blockchains, the former has to be resolved through governance and incentives, whereas the latter depends on the the fail-safe mechanisms and quality of the of tools, engineers and QA practices.
 
-<#insert image>
+![](https://blog.joystream.org/content/images/2019/03/5097486285_dee7125140_z.jpg)
+
+Different strokes
 
 In sum, we believe that this system is the best for the Joystream blockchain, as it needs to be adaptive and responsive to rapid changes of circumstances. Examples can include things like quickly increasing the budget for `storage providers` or `membership screeners` if some nodes go offline, or there is a burst of new membership applicants after an article or publicity event occurs. If every participant had to manually or forcible upgrade their software from some repository every time, it would be an organizational challenge at best or an attack vector at worst.
 
