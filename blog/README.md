@@ -23,7 +23,7 @@ This section contains the workflow and template for producing _new_ blog posts.
 
 ## Workflow
 
-1. Use the [template](#template) below, and produce a draft containing at least the [title](#title), [purpose](#purpose) and [body](#body).
+1. Use the `templatemd` explained [below](#template), and produce a draft containing at least the [title](#title), [purpose](#purpose) and [body](#body).
 2. Update the main README, and include the file(s) in your PR, and assign a reviewer.
 3. After the PR is merged, collect and include the missing items from the [template](#template), and make a new PR when the post is ready to go live on the [blog](https://blog.joystream.org/).
 

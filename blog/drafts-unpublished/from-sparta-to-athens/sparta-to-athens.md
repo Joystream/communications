@@ -37,11 +37,15 @@ Also note that the release of Athens will only require a change of the [runtime]
 
 In terms of core platform functionality, building a content distribution system is an important milestone. As a "User governed video platform", we have now already built (a very basic) version of the on-chain governance and the storage and distribution system.
 
+<p align="center"><img height=300px src="storage-provider.png"></p>
+
 If you have read our [whitepaper](https://github.com/Joystream/whitepaper/blob/master/paper.pdf), or checked out or section on platform jobs and roles, you will realize that of all the different roles we foresee will form the mainnet content distribution system, only storage provider is activated for now. Later testnets will introduce more and more of these roles.
 
 #### Membership
 
 The other feature change visible to the end user is the introduction of platform membership. The concept of memberships might sound like a strange concept for a blockchain, so it should be made clear that a membership is *not* required to transact funds. It will however be required to interact with the platform in any way, such as watching videos, voting or taking a role.
+
+<p align="center"><img height=300px src="membership.svg"></p>
 
 Timeline
 --------
@@ -64,7 +68,7 @@ https://blog.joystream.org/p/ed2aa80e-df3e-4517-ba81-81008b3d897a/
 
 #### Social media card cover
 
-<p align="center"><img src="sparta-to-athens-twitter-cover.png"></p>
+<p align="center"><img src="sparta-to-athens-cover-twitter.png"></p>
 
 #### Social media excerpt
 
