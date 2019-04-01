@@ -18,7 +18,7 @@ blog.joystream.org/sparta-sacked/
 
 #### Lead
 
-Due to a bug, Sparta got rekt on March 29th. Somewhat ironically, a [hardfork](https://blog.joystream.org/upgrades/) and chain reset seems like the best option. `Validators` and `Council Members` will be [compensated](https://blog.joystream.org/p/468c3a4f-42bb-41fb-b371-c10a643cc92f/blog.joystream.org/sparta-sacked/#pay) for their troubles.
+Due to a bug, Sparta got rekt on March 29th. Somewhat ironically, a [hardfork](https://blog.joystream.org/upgrades/) and chain reset seems like the best option. `Validators` and `Council Members` have been [compensated](https://blog.joystream.org/sparta-sacked/#pay) for their troubles.
 
 #### Body
 
@@ -52,11 +52,11 @@ To help ease the pain of our great community members that has participated on Sp
 
 #### Council Members
 
-The second [council election](https://sparta.joystream.org/apps/#/council/members) had just concluded before the network went down. All members will be paid out tomorrow, and will also receive the bonus they would have received had the testnet reached its intended destination.
+The second [council election](https://sparta.joystream.org/apps/#/council/members) had just concluded before the network went down. All members have been paid out, and received the bonus they could have qualified for had the testnet reached its intended conclusion.
 
 #### Validators
 
-As it must be assumed that the same group would have kept on fighting to produce blocks, we will double the payout for the blocks that was produced before we went down.
+As it must be assumed that the same group would have kept on fighting to produce blocks, we paid out validators double the amount pr block.
 
 Stay Tuned for Athens
 ---------------------
@@ -79,4 +79,4 @@ https://blog.joystream.org/p/468c3a4f-42bb-41fb-b371-c10a643cc92f/
 
 #### Social media excerpt
 
-Due to an issue, Sparta got rekt on March 29th. Validators and Council Members will be compensated for their troubles.
+Due to an issue, Sparta got rekt on March 29th. Validators and Council Members have been compensated for their troubles. 
