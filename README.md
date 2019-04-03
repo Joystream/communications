@@ -31,6 +31,7 @@ A copy of all posts from our [ghost](https://github.com/TryGhost/Ghost) [blog](h
 | Sparta Released                                | /sparta                       | 28.02.19          | Release - Sparta      |
 | On-chain Consensus Upgrades Without Hardforks  | /upgrades                     | 26.03.19          | Technical             |
 | Whitepaper Published                           | /whitepaper-published         | 27.03.19          | Technical             |
+| The Sack of Sparta                             | /sparta-sacked                | 01.04.19          | Release - Sparta      | 
 
 
 #### Drafts and Unpublished Posts
