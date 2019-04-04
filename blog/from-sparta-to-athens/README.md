@@ -27,7 +27,10 @@ Athens introduces video content to the platform, and the new paid `Storage Provi
 #### Body
 ---
 
-<p align="center"><img height=100px src="10.png"><img height=100px src="monero.png"><img height=100px src="100.png"></p>
+<p align="center">
+    <img height=200px src="monero.png">
+    <div style='width: 900px; text-align: center;'>Like Sparta, participants on Athens can earn Monero</div>
+</p>
 
 ## New Features
 
