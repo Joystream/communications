@@ -18,7 +18,7 @@ blog.joystream.org/sparta-to-athens/
 
 #### Lead
 
-Athens will introduce the first version of a content distribution system on the platform. In addition to the old [paid roles](https://blog.joystream.org/sparta-incentives-structure/), the new `Storage Provider` role is getting actived.
+Athens will introduce the first version of a content distribution system on the platform. In addition to the old [paid roles](https://blog.joystream.org/sparta-incentives-structure/), the new `Storage Provider` role is getting activated.
 
 Short excerpt:
 
@@ -27,12 +27,13 @@ Athens introduces video content to the platform, and the new paid `Storage Provi
 #### Body
 ---
 
-
+<p align="center">
+    <img height=200px src="Monero.png">
+    <div style='width: 900px; text-align: center;'>Like Sparta, participants on Athens can earn Monero</div>
+</p>
 
 ## New Features
 
-New Features
-===
 In general, we are aiming at releasing a new testnet ~8 weeks. The size and scope of each release will vary, with some focusing more on end users, and others more on building and optimizing the platform infrastructure.
 
 In most cases, we will aim at voting through [runtime](https://blog.joystream.org/upgrades/) upgrades, instead of hardforks and/or chain resets. Due to the bug that took down [Sparta](https://blog.joystream.org/sparta-sacked/), Athens will require upgrading the full node software, and start from a new genesis block.
@@ -51,8 +52,7 @@ The other feature change visible to the end user is the introduction of platform
 
 <p align="center"><img height=300px src="membership.png"></p>
 
-Timeline
---------
+## Timeline
 
 We are currently [targeting release](https://github.com/Joystream/joystream/tree/master/testnets/athens#live-milestones) on the 10th of April. Before that time, we will at least have published the following information:
 
@@ -78,4 +78,4 @@ https://blog.joystream.org/p/ed2aa80e-df3e-4517-ba81-81008b3d897a/
 
 #### Social media excerpt
 
-Athens introduces video content to the platform, and the new `Storage Provider` role.
+Athens introduces video content to the platform, and the new paid `Storage Provider` role.

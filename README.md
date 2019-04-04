@@ -32,6 +32,7 @@ A copy of all posts from our [ghost](https://github.com/TryGhost/Ghost) [blog](h
 | On-chain Consensus Upgrades Without Hardforks  | /upgrades                     | 26.03.19          | Technical             |
 | Whitepaper Published                           | /whitepaper-published         | 27.03.19          | Technical             |
 | The Sack of Sparta                             | /sparta-sacked                | 01.04.19          | Release - Sparta      | 
+| From Sparta to Athens                          | /sparta-to-athens             | 03.04.19          | Release - Athens      |
 
 
 #### Drafts and Unpublished Posts
@@ -39,7 +40,6 @@ A copy of all posts from our [ghost](https://github.com/TryGhost/Ghost) [blog](h
 | ------------------------------------           |------------------------------            | ------------------| --------------        |
 | Sparta - Install the UI on Windows/Mac         | /p/8e8f08a6-08d5-4a64-9f08-08aedd0d5719/ | Unpublished       | Release - Sparta      |
 | Supply Signature Temporarily                   | /p/dbbfe66d-4af3-42f3-93fb-9cde97721988/ | Unpublished       | Release - Sparta      |
-| From Sparta to Athens                          | /sparta-to-athens                        | Draft             | Release - Athens      |
 | Athens Incentive Structure                     | /athens-incentives                       | Draft             | Release - Athens      |
 
 
