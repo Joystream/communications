@@ -15,7 +15,7 @@ This repo contains all public communications, from WIP to completed status.
 
 ## Blog
 
-A copy of all posts from our [ghost](https://github.com/TryGhost/Ghost) [blog](https://blog.joystream.org/) are kept here. Unpublished posts are typically additional step-by-step instructions accessible through in-post links or on demand, that are either temporary workarounds and/or not actually necessary for most users. 
+A copy of all posts from our [ghost](https://github.com/TryGhost/Ghost) [blog](https://blog.joystream.org/) are kept here. Unpublished posts are typically additional step-by-step instructions accessible through in-post links or on demand, that are either temporary workarounds and/or not actually necessary for most users.
 
 `URL` refers to blog.joystream.org/`url`
 
@@ -33,14 +33,15 @@ A copy of all posts from our [ghost](https://github.com/TryGhost/Ghost) [blog](h
 | [Whitepaper Published](https://github.com/Joystream/communications/tree/master/blog/whitepaper-published)                                                             | /whitepaper-published         | 27.03.19          | Technical             |
 | [The Sack of Sparta](https://github.com/Joystream/communications/tree/master/blog/the-sack-of-sparta)                                                                 | /sparta-sacked                | 01.04.19          | Release - Sparta      |
 | [From Sparta to Athens](https://github.com/Joystream/communications/tree/master/blog/from-sparta-to-athens)                                                           | /sparta-to-athens             | 03.04.19          | Release - Athens      |
+| [Athens Incentive Structure](https://github.com/Joystream/communications/tree/master/blog/drafts-unpublished/the-athens-incentive-structure)               | /athens-incentives                       | 11.04.19             | Release - Athens      |
 
 
 #### Drafts and Unpublished Posts
-| Title                                                                                                                                                      | URL                                      | Status            | Category              | 
+| Title                                                                                                                                                      | URL                                      | Status            | Category              |
 | ------------------------------------                                                                                                                       |------------------------------            | ------------------| --------------        |
 | [Sparta - Install the UI on Windows/Mac](https://github.com/Joystream/communications/tree/master/blog/drafts-unpublished/sparta-ui)                        | /p/8e8f08a6-08d5-4a64-9f08-08aedd0d5719/ | Unpublished       | Release - Sparta      |
 | [Supply Signature Temporarily](https://github.com/Joystream/communications/tree/master/blog/drafts-unpublished/supply-signature-temporarily)               | /p/dbbfe66d-4af3-42f3-93fb-9cde97721988/ | Unpublished       | Release - Sparta      |
-| [Athens Incentive Structure](https://github.com/Joystream/communications/tree/master/blog/drafts-unpublished/the-athens-incentive-structure)               | /athens-incentives                       | Draft             | Release - Athens      |
+
 
 
 ## Newsletter
