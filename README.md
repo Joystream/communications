@@ -33,7 +33,7 @@ A copy of all posts from our [ghost](https://github.com/TryGhost/Ghost) [blog](h
 | [Whitepaper Published](https://github.com/Joystream/communications/tree/master/blog/whitepaper-published)                                                             | /whitepaper-published         | 27.03.19          | Technical             |
 | [The Sack of Sparta](https://github.com/Joystream/communications/tree/master/blog/the-sack-of-sparta)                                                                 | /sparta-sacked                | 01.04.19          | Release - Sparta      |
 | [From Sparta to Athens](https://github.com/Joystream/communications/tree/master/blog/from-sparta-to-athens)                                                           | /sparta-to-athens             | 03.04.19          | Release - Athens      |
-| [Athens Incentive Structure](https://github.com/Joystream/communications/tree/master/blog/drafts-unpublished/the-athens-incentive-structure)               | /athens-incentives                       | 11.04.19             | Release - Athens      |
+| [Athens Incentive Structure](https://github.com/Joystream/communications/tree/master/blog/drafts-unpublished/the-athens-incentive-structure)               | /athens-incentives                       | 15.04.19             | Release - Athens      |
 
 
 #### Drafts and Unpublished Posts
