@@ -41,6 +41,7 @@ A copy of all posts from our [ghost](https://github.com/TryGhost/Ghost) [blog](h
 | ------------------------------------                                                                                                                       |------------------------------            | ------------------| --------------        |
 | [Sparta - Install the UI on Windows/Mac](https://github.com/Joystream/communications/tree/master/blog/drafts-unpublished/sparta-ui)                        | /p/8e8f08a6-08d5-4a64-9f08-08aedd0d5719/ | Unpublished       | Release - Sparta      |
 | [Supply Signature Temporarily](https://github.com/Joystream/communications/tree/master/blog/drafts-unpublished/supply-signature-temporarily)               | /p/dbbfe66d-4af3-42f3-93fb-9cde97721988/ | Unpublished       | Release - Sparta      |
+| [Athens Released](https://github.com/Joystream/communications/tree/master/blog/drafts-unpublished/supply-signature-temporarily)               | /p/c1a02ccf-6f7d-4b63-8632-1be70a5700ce/ | Draft       | Release - Athens      |
 
 
 
