@@ -43,7 +43,9 @@ The philosophy behind **why** was discussed in detail in a previous [post](https
 
 **What** you can do to qualify for getting paid on Athens is described below.
 
-More information, guides on **how** to get setup and extra support can be found in our [helpdesk](https://github.com/Joystream/helpdesk) repo on [github](https://github.com/Joystream/). Note that actual launch of the network is still a few days away.
+More information, guides on **how** to get setup and extra support can be found in our [helpdesk](https://github.com/Joystream/helpdesk) repo on [github](https://github.com/Joystream/).
+
+We have now gone live, so you can access the testnet [here](https://testnet.joystream.org/).
 
 #### Paid Roles
 
