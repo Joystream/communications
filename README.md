@@ -1,13 +1,14 @@
-<p align="center" style="font-size:100px;font-weight:100;">Communications</p>
+<p align="center"><img src="communications.svg"></p>
 
 # Table of contents
-
+<!-- TOC START min:1 max:4 link:true asterisk:false update:true -->
 - [Table of contents](#table-of-contents)
 - [Communications](#communications)
   - [Blog](#blog)
       - [Published Posts](#published-posts)
       - [Drafts and Unpublished Posts](#drafts-and-unpublished-posts)
   - [Newsletter](#newsletter)
+<!-- TOC END -->
 
 # Communications
 

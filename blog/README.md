@@ -1,6 +1,7 @@
-<p align="center" style="font-size:100px;font-weight:100;">Blog</p>
+<p align="center"><img src="blog.svg"></p>
 
 # Table of contents
+<!-- TOC START min:1 max:4 link:true asterisk:false update:true -->
 - [Table of contents](#table-of-contents)
 - [Overview](#overview)
   - [Workflow](#workflow)
@@ -15,7 +16,7 @@
       - [Preview](#preview)
       - [Social media card cover](#social-media-card-cover)
       - [Social media excerpt](#social-media-excerpt)
-
+<!-- TOC END -->
 
 # Overview
 
