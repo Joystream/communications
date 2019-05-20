@@ -4,6 +4,7 @@
 <!-- TOC START min:1 max:4 link:true asterisk:false update:true -->
 - [Table of contents](#table-of-contents)
 - [Communications](#communications)
+  - [Contribute](#contribute)
   - [Blog](#blog)
       - [Published Posts](#published-posts)
       - [Drafts and Unpublished Posts](#drafts-and-unpublished-posts)
@@ -13,6 +14,12 @@
 # Communications
 
 This repo contains all public communications, from WIP to completed status.
+
+
+## Contribute
+
+As an open source project, we are always looking for contributors. You can read more about the process [here](https://github.com/Joystream/joystream#contribute), and the potential rewards [here](https://github.com/Joystream/helpdesk#builders-and-bug-reporters).
+
 
 ## Blog
 
@@ -34,8 +41,8 @@ A copy of all posts from our [ghost](https://github.com/TryGhost/Ghost) [blog](h
 | [Whitepaper Published](https://github.com/Joystream/communications/tree/master/blog/whitepaper-published)                                                             | /whitepaper-published         | 27.03.19          | Technical             |
 | [The Sack of Sparta](https://github.com/Joystream/communications/tree/master/blog/the-sack-of-sparta)                                                                 | /sparta-sacked                | 01.04.19          | Release - Sparta      |
 | [From Sparta to Athens](https://github.com/Joystream/communications/tree/master/blog/from-sparta-to-athens)                                                           | /sparta-to-athens             | 03.04.19          | Release - Athens      |
-| [Athens Incentive Structure](https://github.com/Joystream/communications/tree/master/blog/the-athens-incentive-structure)               | /athens-incentives                       | 15.04.19             | Release - Athens      |
-| [Athens Released](https://github.com/Joystream/communications/tree/master/blog/athens-released)               | /athens-released  | 17.04.19       | Release - Athens      |
+| [Athens Incentive Structure](https://github.com/Joystream/communications/tree/master/blog/the-athens-incentive-structure)                                             | /athens-incentives            | 15.04.19          | Release - Athens      |
+| [Athens Released](https://github.com/Joystream/communications/tree/master/blog/athens-released)                                                                       | /athens-released              | 17.04.19          | Release - Athens      |
 
 
 #### Drafts and Unpublished Posts
@@ -43,7 +50,7 @@ A copy of all posts from our [ghost](https://github.com/TryGhost/Ghost) [blog](h
 | ------------------------------------                                                                                                                       |------------------------------            | ------------------| --------------        |
 | [Sparta - Install the UI on Windows/Mac](https://github.com/Joystream/communications/tree/master/blog/drafts-unpublished/sparta-ui)                        | /p/8e8f08a6-08d5-4a64-9f08-08aedd0d5719/ | Unpublished       | Release - Sparta      |
 | [Supply Signature Temporarily](https://github.com/Joystream/communications/tree/master/blog/drafts-unpublished/supply-signature-temporarily)               | /p/dbbfe66d-4af3-42f3-93fb-9cde97721988/ | Unpublished       | Release - Sparta      |
-
+| [Announcing Acropolis](https://github.com/Joystream/communications/tree/master/blog/drafts-unpublished/announcing-acropolis)                               | /p/a34ea341-4d93-49d0-9d4f-43bf7bcc06a4/ | Draft             | Release - Acropolis   |
 
 
 ## Newsletter
