@@ -14,7 +14,7 @@ blog.joystream.org/announcing-acropolis/
 
 #### Cover
 
-<p align="center"><img src="announcing-acropolis.png"></p>
+<p align="center"><img src="announcing-acropolis-cover.png"></p>
 
 #### Lead
 
@@ -75,7 +75,7 @@ Our next testnet, Acropolis, will introduce an on-chain forum!
 
 #### Social media card cover
 
-<p align="center"><img src="announcing-acropolis.png"></p>
+<p align="center"><img src="announcing-acropolis-cover.png"></p>
 
 #### Social media excerpt
 
