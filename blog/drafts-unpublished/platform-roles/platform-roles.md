@@ -2,11 +2,11 @@
 
 #### Title
 
-Joystream Platform Roles
+Claim Your Role on the Platform
 
 #### Purpose
 
-Properly announce the platform roles newsletter.
+Properly announce the platform roles newsletter, so people can sign up for updates and news.
 
 #### url
 
@@ -27,21 +27,13 @@ A few roles are already active, and you can earn Monero to participate while hel
 
 #### Body
 
-TL;DR
------
+Join Our Newsletter
+-------------------
 
 We have made [section on our website](https://www.joystream.org/roles) where you can learn about the responsibilities, requirements and rewards for current and future roles. Here, you can also sign up for newsletters specific to each role. Whenever a role is getting activated, new incentives are offered, and new software is required, we will send out updates to all subscribers.
 
 We take your [privacy seriously](https://www.joystream.org/privacy-policy), and will never collect more data than necessary.
 
-Running Joystream
------------------
-
-We believe the success of the Joystream Platform is dependent on building a strong community of dedicated, active and specialized users to take on the [various platform roles](https://www.joystream.org/roles). This requires "training" contributors, operators and future stakeholders early on, properly testing functionality and incentives, and getting continuous feedback. This is part of the reason why we are paying community members monero to participate. More about this [here](https://blog.joystream.org/pay-for-play/).
-
-### Our focus
-
-Building the core platform infrastructure is the top priority of [Jsgenesis](https://blog.joystream.org/jsgenesis/), but building it is not enough. Someone has to actually run the software and help develop it further. If you find our project interesting and think you might be able to contribute in any way, either now or in the future, consider [signing up for the roles](https://www.joystream.org/roles) you think you can fill!
 
 #### Disclaimer
 
