@@ -45,13 +45,14 @@ A copy of all posts from our [ghost](https://github.com/TryGhost/Ghost) [blog](h
 | [Athens Released](/blog/athens-released)                                      | /athens-released              | 17.04.19 | Release - Athens      |
 | [Announcing Acropolis](/blog/announcing-acropolis)                            | /announcing-acropolis         | 20.05.19 | Release - Acropolis   |
 | [Joystream Platform Roles](/blog/platform-roles)                              | /platform-roles/              | 04.06.19 | General               |
+| [The Acropolis Incentive Structure](/blog/acropolis-incentives)               | /acropolis-incentives         | 21.06.19 | Release - Acropolis   |
 
 #### Drafts and Unpublished Posts
 | Title                                                                                | URL                                      | Status            | Category              |
 | -------------------------------------------------------------------------------------|------------------------------------------| ------------------| --------------        |
 | [Sparta - Install the UI on Windows/Mac](/blog/drafts-unpublished/sparta-ui)         | /p/8e8f08a6-08d5-4a64-9f08-08aedd0d5719/ | Unpublished       | Release - Sparta      |
 | [Supply Signature Temporarily](/blog/drafts-unpublished/supply-signature-temporarily)| /p/dbbfe66d-4af3-42f3-93fb-9cde97721988/ | Unpublished       | Release - Sparta      |
-| [The Acropolis Incentive Structure](/blog/drafts-unpublished/acropolis-incentives)   | /p/69074918-d79f-41d2-84d2-95bf71f92588/ | Draft             | Release - Acropolis   |
+
 
 
 ## Newsletter
