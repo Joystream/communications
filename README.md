@@ -45,7 +45,7 @@ A copy of all posts from our [ghost](https://github.com/TryGhost/Ghost) [blog](h
 | [Athens Released](/blog/athens-released)                                      | /athens-released              | 17.04.19 | Release - Athens      |
 | [Announcing Acropolis](/blog/announcing-acropolis)                            | /announcing-acropolis         | 20.05.19 | Release - Acropolis   |
 | [Joystream Platform Roles](/blog/platform-roles)                              | /platform-roles/              | 04.06.19 | General               |
-| [The Acropolis Incentive Structure](/blog/acropolis-incentives)               | /acropolis-incentives         | 19.06.19 | Release - Acropolis   |
+| [The Acropolis Incentive Structure](/blog/acropolis-incentives)               | /acropolis-incentives         | 21.06.19 | Release - Acropolis   |
 
 #### Drafts and Unpublished Posts
 | Title                                                                                | URL                                      | Status            | Category              |

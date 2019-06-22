@@ -35,10 +35,10 @@ As with [Sparta](https://blog.joystream.org/sparta-incentives-structure/) and [A
 ## Executive Summary
 
 
--   `Storage Providers` are competing for $300 per week, plus $0.025/GB per week
--   `Validators` are competing for $50 per week
+-   `Storage Providers` will share for $300 per week, plus $0.025/GB per week
+-   `Validators` are competing for their share of $50 per week
 -   `Council Members` are paid $10 for getting elected, with a $10 bonus
--   `Bug Reporters` can earn up to $20/$100 for an `Issue`/ `PR`
+-   `Bug Reporters` can earn monero for reporting and/or fixing bugs
 
 ## Who, Why, What and How?
 
@@ -75,7 +75,7 @@ For Acropolis, this has been sorted out, and the Jsgenesis node(s) will not have
 
 Unlike `Validators` that can come and go without too much friction (at least for now), a new `Storage Provider` will need to replicate the entire content directory. As a consequence, the platform needs some stability for this role to avoid providing a poor user experience, or worse, loss of data. After migrating to the new Acropolis [runtime](https://blog.joystream.org/upgrades/), the users that currently hold the role will get "kicked" out, and will have to sign up again if they still want to keep their role.
 
-Up to 10 `Storage Providers` that keep a full copy and provides continues service for at least 24h will compete for $300 per week. In addition,  you will earn $0.025/GB/week calculated on an average basis. Please note that the setup is a lot more complicated this time, so some experience using linux on the command line is required. You will also need a domain to point to your node, so unless you already own one (that you don't mind using), you will need to buy one... A detailed guide to setting up the node can be found [here](https://github.com/Joystream/helpdesk/tree/master/roles/storage-providers).
+Up to 10 `Storage Providers` that keep a full copy and provides continues service for at least 24h will compete for $300 per week. In addition,  you will earn $0.025/GB/week (of data in the `content directory`) calculated on an average basis. Please note that the setup is a lot more complicated this time, so some experience using linux on the command line is required. You will also need a domain to point to your node, so unless you already own one (that you don't mind using), you will need to buy one... A detailed guide to setting up the node can be found [here](https://github.com/Joystream/helpdesk/tree/master/roles/storage-providers).
 
 We will try our best to police the `Storage Providers`, so if you are not doing your job (either lack of maintenance, or cheating) at least make sure to not get caught! Payouts will be made every Monday at ~11:00GMT.
 
