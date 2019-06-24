@@ -52,6 +52,7 @@ A copy of all posts from our [ghost](https://github.com/TryGhost/Ghost) [blog](h
 | -------------------------------------------------------------------------------------|------------------------------------------| ------------------| --------------        |
 | [Sparta - Install the UI on Windows/Mac](/blog/drafts-unpublished/sparta-ui)         | /p/8e8f08a6-08d5-4a64-9f08-08aedd0d5719/ | Unpublished       | Release - Sparta      |
 | [Supply Signature Temporarily](/blog/drafts-unpublished/supply-signature-temporarily)| /p/dbbfe66d-4af3-42f3-93fb-9cde97721988/ | Unpublished       | Release - Sparta      |
+| [Acropolis Released](/blog/drafts-unpublished/acropolis-released)| p/28493a43-c8ab-4527-aa6a-13e15439f243/ | Draft       | Release - Acropolis     |
 
 
 
