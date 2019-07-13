@@ -1,8 +1,8 @@
 <p align="center"><img src="/blog/communications.svg"></p>
 
-# Table of contents
+# Table of Contents
 <!-- TOC START min:1 max:4 link:true asterisk:false update:true -->
-- [Table of contents](#table-of-contents)
+- [Table of Contents](#table-of-contents)
 - [Communications](#communications)
   - [Contribute](#contribute)
   - [Blog](#blog)
@@ -58,4 +58,4 @@ A copy of all posts from our [ghost](https://github.com/TryGhost/Ghost) [blog](h
 
 ## Newsletter
 
-WIP: have something here on branding guide and assets, perhaps list of posts also, wiht status (draft, in review, posted, etc.)
+WIP: have something here on branding guide and assets, perhaps list of posts also, with status (draft, in review, posted, etc.)
