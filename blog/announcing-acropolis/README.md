@@ -59,7 +59,7 @@ Contribute and Earn Monero
 
 Although Joystream is currently controlled by us at Jsgenesis, our goal has been, and still is, to withdraw and leave it in the hands of our community to own, operate and govern. In order for that transition to work smoothly, we need contributors at **all levels**. Just participating on our testnets is helping us immensely (hence why we [pay monero](https://blog.joystream.org/pay-for-play/) for doing so), but we need help in other ways as well.
 
-Both detailed specing and opening our project management and planning process on github at an early stage, are steps we hope will attract both technical and managerial talent.
+Both detailed specing and opening our project management and planning process on GitHub at an early stage, are steps we hope will attract both technical and managerial talent.
 
 Developers and testers can report issues or make PRs to [our repos](https://github.com/Joystream), following our [standard rules](https://github.com/Joystream/joystream#contribute). In addition to the [small bounties](https://github.com/JoyStream/helpdesk#builders-and-bug-reporters) we promise for small "patches" or bug discoveries, feel free to contact us anywhere if you have something larger in mind.
 
