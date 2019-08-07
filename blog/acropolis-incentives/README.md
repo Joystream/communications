@@ -86,7 +86,7 @@ We will try our best to police the `Storage Providers`, so if you are not doing 
         <div style='text-align: center;'>Compete for $50 per week</div>
 </p>
 
-In proof of stake systems, block producers, or `Validators`, are typically paid a fixed amount for each block produced. Due to some connectivety issues we had for a while, the `Validator` nodes was often getting booted. Because of this, we are increaseing the payout pool from $30 to $50 per week.
+In proof of stake systems, block producers, or `Validators`, are typically paid a fixed amount for each block produced. Due to some connectivity issues we had for a while, the `Validator` nodes was often getting booted. Because of this, we are increasing the payout pool from $30 to $50 per week.
 
 ```
 blocktime = 6
