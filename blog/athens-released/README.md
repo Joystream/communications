@@ -45,7 +45,7 @@ Participants can earn Monero
 Get Started
 -----------
 
-If you just want to have a look at the new testnet, go [here](http://testnet.joystream.org/). If you need any help getting started, we ask you to consult our [helpdesk repo](https://github.com/JoyStream/helpdesk) first. If you have further questions, post them as `Issues` there, or ask in our [telegram](https://t.me/JoyStreamOfficial) and [rocket.chat](https://chat.joystream.org/home)!
+If you just want to have a look at the new testnet, go [here](http://testnet.joystream.org/). If you need any help getting started, we ask you to consult our [helpdesk repo](https://github.com/JoyStream/helpdesk) first. If you have further questions, post them as `Issues` there, or ask in our [Telegram](https://t.me/JoyStreamOfficial)!
 
 With a lot of changes since our last testnet, this applies just as much to old and new participants.
 
