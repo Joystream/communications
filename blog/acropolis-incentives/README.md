@@ -43,7 +43,7 @@ As with [Sparta](https://blog.joystream.org/sparta-incentives-structure/) and [A
 ## Who, Why, What and How?
 
 
-As for previous testnets, anyone **who** wants to can participate on Acropolis and earn monero, but there is some extra help and guidance for those that ask for it in our [Rocket.Chat](https://chat.joystream.org/home) and [Telegram](https://t.me/joinchat/CNyeUxHD9H56m3e_44hXIA).
+As for previous testnets, anyone **who** wants to can participate on Acropolis and earn monero, but there is some extra help and guidance for those that ask for it in our [Telegram](https://t.me/joinchat/CNyeUxHD9H56m3e_44hXIA).
 
 The philosophy behind **why** was discussed in detail in a previous [post](https://blog.joystream.org/pay-for-play/). In short, we are paying to prepare active participants for an autonomous platform, and test the incentive structure with "real money".
 
