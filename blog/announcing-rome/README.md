@@ -49,18 +49,18 @@ In line with the project goals of openness and transparency, we are releasing pu
 
 #### Objective: Introduce a Better Content System
 
-1.  `Members can make a Content Creator profile and publish content under this profile.`
-2.  `Introduce the role of staked Content Curators, policed by sudo.`
-3.  `Launch with 3 content types.`
-4.  `Add 1 new content type after release.`
-5.  `Add a new schema for a content type, and migrate only some instances to the new schema.`
+  1. `Members can make a Content Creator profile and publish content under this profile.`
+  2. `Introduce the role of staked Content Curators, policed by sudo.`
+  3. `Launch with 3 content types.`
+  4. `Add 1 new content type after release.`
+  5. `Add a new schema for a content type, and migrate only some instances to the new schema.`
 
 #### Objective: Engage community to understand Rome and join us in the future
 
-1.  `20 new creator profiles.`
-2.  `Get 5 active Content Curators.`
-3.  `At least 20 items for each content type enabled at launch.`
-4.  `At least 500 items in total across all content types.`
+  1. `20 Content Creator profiles which add at least one content item.`
+  2. `Get 5 active Content Curators.`
+  3. `At least 20 items for each content type enabled at launch.`
+  4. `At least 500 items in total across all content types.`
 
 ## Contribute and Earn Monero
 
