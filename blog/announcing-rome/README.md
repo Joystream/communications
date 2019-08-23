@@ -11,7 +11,6 @@ Announcing our next testnet, Rome
 #### url
 
 blog.joystream.org/announcing-rome/
-blog.joystream.org/p/715106e8-6671-490b-aea1-cb5754cc524b/
 
 #### Cover
 
@@ -27,7 +26,7 @@ After launching the Acropolis network in late June, we are finally ready to anno
 
 ## What is Rome
 
-The Rome network will be revolve around one key platform feature - a flexible, adaptable and user friendly Content Directory. Our reasoning for focusing on this task, that may seem narrow and trivial at first glance, is the long term value of it:
+The Rome network will be revolve around one key platform feature - a dynamic, flexible and user friendly content directory. Our reasoning for focusing on this task, that may seem narrow and trivial at first glance, is the long term value of it:
 
 -   The platform will allow for new *types* of content and data, with as little friction as possible.
 -   Adding metadata to existing content, improving the user experience through better search, etc.
@@ -38,7 +37,7 @@ You can read more details about Rome in our [release plan](https://github.com/Jo
 
 As for previous testnets, we will continue to [pay community members for participating](https://blog.joystream.org/pay-for-play/). In addition to the existing roles, `Validator`, `Council Member` and `Storage Provider`, we will add one new *paid* role, the `Content Curator`.
 
-In short, the `Content Curator` will be responsible for monitoring the Content Directory. A more detailed description of their responsibilities, requirements and rewards will be covered in a future blog post.
+In short, the `Content Curator` will be responsible for monitoring the content directory. A more detailed description of their responsibilities, requirements and rewards will be covered in a future blog post.
 
 In addition to that, platform `members` will be able to create `Content Creator` profiles associated with their membership. This will allow users to create multiple "channels" under the same membership handle.
 
@@ -79,7 +78,7 @@ All forward looking statements, estimates and commitments found in this blog pos
 
 #### Preview
 
-Our next testnet, Rome, will revolve around a flexible, adaptable and user friendly Content Directory!
+Rome - our next testnet, will revolve around a dynamic, flexible and user friendly content directory!
 
 #### Social media card cover
 
