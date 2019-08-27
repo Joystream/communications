@@ -19,4 +19,4 @@ Jsgenesis is a limited company, registered in Norway. We currently consist of fo
 
 If you have an interest in governance, crypto and p2p-networks, we would love for you to join or team. To apply, or if you just want to read more about us, visit our [website](https://www.jsgenesis.com/).
 
-### Follow Joystream on [Twitter](https://twitter.com/JoyStreamApp), [Telegram](https://t.me/joinchat/CNyeUxHD9H56m3e_44hXIA) or [Reddit](https://www.reddit.com/r/JoyStream/) and join our [Rocket.Chat](https://chat.joystream.org/home)!
+### Follow Joystream on [Twitter](https://twitter.com/JoyStreamApp), [Telegram](https://t.me/joinchat/CNyeUxHD9H56m3e_44hXIA) or [Reddit](https://www.reddit.com/r/JoyStream/)!

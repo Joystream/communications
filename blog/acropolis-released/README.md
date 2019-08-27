@@ -11,7 +11,6 @@ Let our community know the new testnet is out.
 #### url
 
 blog.joystream.org/acropolis-released/
-https://blog.joystream.org/p/28493a43-c8ab-4527-aa6a-13e15439f243/
 
 #### Cover
 
@@ -38,19 +37,21 @@ In a previous [post](https://blog.joystream.org/pay-for-play/), we explained the
 
 In our last [post](https://blog.joystream.org/acropolis-incentives/), we outlined the incentive structure for Acropolis. The specifics of this is also available in our new [helpdesk repo](https://github.com/JoyStream/helpdesk).
 
-![](https://blog.joystream.org/content/images/2019/04/Monero-2.png)
+<p align="center">
+    <img src="monero.png" style="height:300px">
+        <div style='text-align: center;'>Participants can earn monero</div>
+</p>
 
-Participants can earn Monero
 
-The following roles qualifies for rewards:
 
-1.  `Validators` will split $50 based on blocks found.
+The following roles qualify for rewards:
+
+1.  `Validators` will split $50 based per week on blocks found.
 2.  `Council Members` will receive $10 to get elected, + bonus if called to vote.
-3.  `Storage Providers` will split $300 based uptime, + bonus for content stored.
+3.  `Storage Providers` will split $300 per week based on uptime, + bonus for content stored.
 4.  `Builders and Bug Reporters` can collect bounties for finding or fixing bugs.
 
 ## Get Started
-
 
 If you just want to have a look at the new testnet, go [here](http://testnet.joystream.org/). If you need any help getting started, we ask you to consult our [helpdesk repo](https://github.com/JoyStream/helpdesk) first. If you have further questions, post them as `Issues` there, or ask in our [telegram](https://t.me/JoyStreamOfficial) and [rocket.chat](https://chat.joystream.org/home)!
 
