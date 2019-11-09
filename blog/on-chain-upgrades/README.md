@@ -10,7 +10,7 @@ Everyone that has been following this space for a while have seen that hardforks
 
 ![](https://blog.joystream.org/content/images/2019/03/20904663876_287f1aeeff_z.jpg)
 
-Some forks breaks
+Some forks break
 
 In the case of Bitcoin, this has lead to an unwillingness to even consider hardforking for a large part of the ecosystem, leading to significant [kludge](https://en.wikipedia.org/wiki/Kludge) (ref [segwit](https://en.bitcoin.it/wiki/Segregated_Witness)). There is a strong argument to be made this is actually a strength for a project of Bitcoin's scope and size. That is not to say all projects should adopt this approach.
 
@@ -63,7 +63,7 @@ Assuming the sudo transaction was indeed valid, or after a proposal has been pas
 Conclusion
 ----------
 
-As with all software implementations, there are trade-offs and compromises. Validators and nodes can manually configure the code to outright reject certain types of transactions or collude to force through their own upgrades if they feel threatened. Bugs can knock-out the whole network simultaneously and chain splits can still occur in certain circumstances. Just as for other blockchains, the former has to be resolved through governance and incentives, whereas the latter depends on the the fail-safe mechanisms and quality of the of tools, engineers and QA practices.
+As with all software implementations, there are trade-offs and compromises. Validators and nodes can manually configure the code to outright reject certain types of transactions or collude to force through their own upgrades if they feel threatened. Bugs can knock-out the whole network simultaneously and chain splits can still occur in certain circumstances. Just as for other blockchains, the former has to be resolved through governance and incentives, whereas the latter depends on the fail-safe mechanisms and quality of the of tools, engineers and QA practices.
 
 ![](https://blog.joystream.org/content/images/2019/03/5097486285_dee7125140_z.jpg)
 
@@ -75,4 +75,4 @@ In sum, we believe that this system is the best for the Joystream blockchain, as
 
 ###### Disclaimer
 
-All forward looking statements, estimates and commitments found in this blog post should be understood to be highly uncertain, not binding and for which no guarantees of accuracy or reliability can be provided. To the fullest extent permitted by law, in no event shall Joystream, Jsgenesis or our affiliates, or any of our directors, employees, contractors,  service providers or agents have any liability whatsoever to any person  for any direct or indirect loss, liability, cost, claim, expense or  damage of any kind, whether in contract or in tort, including negligence, or otherwise, arising out of or related to the use of all or  part of this post, or any links to third party websites.
+All forward looking statements, estimates and commitments found in this blog post should be understood to be highly uncertain, not binding and for which no guarantees of accuracy or reliability can be provided. To the fullest extent permitted by law, in no event shall Joystream, Jsgenesis or our affiliates, or any of our directors, employees, contractors, service providers or agents have any liability whatsoever to any person for any direct or indirect loss, liability, cost, claim, expense or damage of any kind, whether in contract or in tort, including negligence, or otherwise, arising out of or related to the use of all or part of this post, or any links to third party websites.

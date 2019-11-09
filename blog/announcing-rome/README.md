@@ -26,7 +26,7 @@ After launching the Acropolis network in late June, we are finally ready to anno
 
 ## What is Rome
 
-The Rome network will be revolve around one key platform feature - a dynamic, flexible and user friendly content directory. Our reasoning for focusing on this task, that may seem narrow and trivial at first glance, is the long term value of it:
+The Rome network will revolve around one key platform feature - a dynamic, flexible and user friendly content directory. Our reasoning for focusing on this task, that may seem narrow and trivial at first glance, is the long term value of it:
 
 -   The platform will allow for new *types* of content and data, with as little friction as possible.
 -   Adding metadata to existing content, improving the user experience through better search, etc.
@@ -74,7 +74,7 @@ Developers and testers can report issues or make PRs to [our repos](https://gith
 
 #### Disclaimer
 
-All forward looking statements, estimates and commitments found in this blog post should be understood to be highly uncertain, not binding and for which no guarantees of accuracy or reliability can be provided. To the fullest extent permitted by law, in no event shall Joystream, Jsgenesis or our affiliates, or any of our directors, employees, contractors,  service providers or agents have any liability whatsoever to any person  for any direct or indirect loss, liability, cost, claim, expense or  damage of any kind, whether in contract or in tort, including negligence, or otherwise, arising out of or related to the use of all or  part of this post, or any links to third party websites.
+All forward looking statements, estimates and commitments found in this blog post should be understood to be highly uncertain, not binding and for which no guarantees of accuracy or reliability can be provided. To the fullest extent permitted by law, in no event shall Joystream, Jsgenesis or our affiliates, or any of our directors, employees, contractors, service providers or agents have any liability whatsoever to any person for any direct or indirect loss, liability, cost, claim, expense or damage of any kind, whether in contract or in tort, including negligence, or otherwise, arising out of or related to the use of all or part of this post, or any links to third party websites.
 
 #### Preview
 
