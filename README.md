@@ -55,7 +55,7 @@ A copy of all posts from our [ghost](https://github.com/TryGhost/Ghost) [blog](h
 | [The Rome Incentive Structure](/blog/rome-incentives)         | /p/c8c9f496-5808-4cf4-9b96-10dcf192877c/ | Unpublished       | Release - Rome      |
 | [Upcoming Joystream Testnets](/blog/upcoming-joystream-testnets)| /p/1f74389f-06fd-43e5-a331-6f66832dfd43/ | Unpublished       | General      |
 | [Announcing New Brand Identity](/blog/announcing-new-branding)         | /p/dca19604-608b-4d30-bca5-34542a545eed/ | Unpublished       | General      |
-| [The Rome Incentive Structure](/blog/rome-incentives)| /p/c8c9f496-5808-4cf4-9b96-10dcf192877c/ | Unpublished       | Release - Rome      |
+| [Rome Released](/blog/rome-released)| /p/1a79a5af-786a-4978-8f8f-ad15dcf56bd5/ | Unfinished Draft       | Release - Rome      |
 
 
 
