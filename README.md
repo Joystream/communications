@@ -44,7 +44,7 @@ A copy of all posts from our [ghost](https://github.com/TryGhost/Ghost) [blog](h
 | [Athens Incentive Structure](/blog/the-athens-incentive-structure)            | /athens-incentives            | 15.04.19 | Release - Athens      |
 | [Athens Released](/blog/athens-released)                                      | /athens-released              | 17.04.19 | Release - Athens      |
 | [Announcing Acropolis](/blog/announcing-acropolis)                            | /announcing-acropolis         | 20.05.19 | Release - Acropolis   |
-| [Joystream Platform Roles](/blog/platform-roles)                              | /platform-roles/              | 04.06.19 | General               |
+| [Joystream Platform Roles](/blog/platform-roles)                              | /platform-roles               | 04.06.19 | General               |
 | [The Acropolis Incentive Structure](/blog/acropolis-incentives)               | /acropolis-incentives         | 21.06.19 | Release - Acropolis   |
 | [Acropolis Released](/blog/acropolis-released)                                | /acropolis-released           | 24.06.19 | Release - Acropolis   |
 | [Announcing Rome](/blog/announcing-rome)                                      | /announcing-rome             | 23.08.19 | Release - Rome        |
@@ -52,8 +52,18 @@ A copy of all posts from our [ghost](https://github.com/TryGhost/Ghost) [blog](h
 #### Drafts and Unpublished Posts
 | Title                                                                                | URL                                      | Status            | Category              |
 | -------------------------------------------------------------------------------------|------------------------------------------| ------------------| --------------        |
-| [Sparta - Install the UI on Windows/Mac](/blog/drafts-unpublished/sparta-ui)         | /p/8e8f08a6-08d5-4a64-9f08-08aedd0d5719/ | Unpublished       | Release - Sparta      |
-| [Supply Signature Temporarily](/blog/drafts-unpublished/supply-signature-temporarily)| /p/dbbfe66d-4af3-42f3-93fb-9cde97721988/ | Unpublished       | Release - Sparta      |
+| [The Rome Incentive Structure](/blog/rome-incentives)         | /p/c8c9f496-5808-4cf4-9b96-10dcf192877c/ | Unpublished       | Release - Rome      |
+| [Upcoming Joystream Testnets](/blog/upcoming-joystream-testnets)| /p/1f74389f-06fd-43e5-a331-6f66832dfd43/ | Unpublished       | General      |
+| [Announcing New Brand Identity](/blog/announcing-new-branding)         | /p/dca19604-608b-4d30-bca5-34542a545eed/ | Unpublished       | General      |
+| [The Rome Incentive Structure](/blog/rome-incentives)| /p/c8c9f496-5808-4cf4-9b96-10dcf192877c/ | Unpublished       | Release - Rome      |
+
+
+
+#### Aborted Planned Posts
+| Title                                                                                | URL                                      | Status            | Category              |
+| -------------------------------------------------------------------------------------|------------------------------------------| ------------------| --------------        |
+| [Sparta - Install the UI on Windows/Mac](/blog/drafts-unpublished/sparta-ui)         | /p/8e8f08a6-08d5-4a64-9f08-08aedd0d5719/ | Never Published       | Release - Sparta      |
+| [Supply Signature Temporarily](/blog/drafts-unpublished/supply-signature-temporarily)| /p/dbbfe66d-4af3-42f3-93fb-9cde97721988/ | Never Published       | Release - Sparta      |
 
 
 ## Newsletter
