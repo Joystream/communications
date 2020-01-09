@@ -64,7 +64,11 @@ The Results
 
 Instead of using this post to show you *all* of the new assets, logos and icons which you can expect to see deployed across our public-facing profiles and products, we thought it might be more helpful to share with you our new `Branding Guide`. This document offers a visual overview of the changes to the Joystream brand and provides some useful context and information about our new asset types.
 
-# EMBEDDED PDF HERE
+```
+
+EMBEDDED PDF HERE
+
+```
 
 If you're using an older web browser, the PDF might not display correctly. If this is the case, please click [here](http://151.236.222.69/assets/brandguide.pdf) to download the guide and view it locally on your device.
 
@@ -84,4 +88,4 @@ http://151.236.222.69/p/dca19604-608b-4d30-bca5-34542a545eed/
 
 #### Social media excerpt
 
-Take a look at our new brand identity!
+Check out our new brand identity!
