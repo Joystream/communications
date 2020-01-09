@@ -2,84 +2,86 @@
 
 #### Title
 
-Acropolis Released
+Announcing New Brand Identity
 
 #### Purpose
 
-Let our community know the new testnet is out.
+Let our community know about our new brand identity.
 
 #### url
 
-blog.joystream.org/acropolis-released/
+blog.joystream.org/announcing-new-branding/
 
 #### Cover
 
-<p align="center"><img src="acropolis-released.png"></p>
+<p align="center"><img src="announcing-new-branding.png"></p>
 
 #### Lead
 
-After the Council successfully voted through the runtime upgrade, Acropolis is now live! Earn monero to participate
-
-Short excerpt:
-
-Acropolis is live!
+We're very excited to announce the rollout of our new brand identity which will be taking place over the next couple of days!
 
 #### Body
 
-## Runtime Upgrade to Acropolis
+The Problem
+-----------
 
-As described in [this post](https://blog.joystream.org/upgrades/), the Substrate SDK allows us to upgrade the consensus rules without a hardfork. That means we can do in-flight upgrades like these, without the need for `Validators` or other full nodes to do anything to stay in consensus.
+Before the process of developing our new brand identity had begun, we were frustrated by the fact that the Joystream visual identity was lacking in many respects. It was incomplete and undefined, which led to problems in communication with our audience across all of our channels, products and messages.
 
-## Get Paid to Participate
+![](branding-collage.png)
 
+The problems we faced in this area included but were not limited to:
 
-In a previous [post](https://blog.joystream.org/pay-for-play/), we explained the philosophy of why we are paying users to contribute on our testnet.
+-   The logo was inconsistent (sometimes it was our old elephant logo, sometimes a wordmark, sometimes an emblem and occasionally combinations of all three)
+-   Logo usage guidelines were unclear in terms of positioning, backgrounds, etc.
+-   Key brand colors and typefaces were undefined
+-   There were no rules for photo style or illustration style in our communications (e.g. blog posts)
+-   Icons and other assets lacked a consistent style
+-   Assets for certain purposes simply did not exist
+-   We had no established brand design guidelines or a style guide
 
-In our last [post](https://blog.joystream.org/acropolis-incentives/), we outlined the incentive structure for Acropolis. The specifics of this is also available in our new [helpdesk repo](https://github.com/JoyStream/helpdesk).
+You can see [more of our discussion](https://github.com/joystream/design/issues?q=is%3Aissue+is%3Aclosed) about these issues in our design repo on GitHub.
 
-<p align="center">
-    <img src="monero.png" style="height:300px">
-        <div style='text-align: center;'>Participants can earn monero</div>
-</p>
+The Solution
+------------
 
+We could see that an urgent solution was necessary to tackle the issues we faced with our branding. As a result, we got in contact with a team of talented designers who were able to completely overhaul our visual brand identity. This was a complicated process which lasted for an extended period of time, but we are very pleased with the results which are now ready to be deployed across our profiles and web properties.
 
+Overall, our rebranding project involved:
 
-The following roles qualify for rewards:
+-   Designing a new Joystream logo
+-   Determining our brand colors and fonts
+-   Redesigning our main website (joystream.org)
+-   Creating new assets for our social media profiles
+-   Creating new assets for our GitHub repositories
+-   Redesigning our blog and the assets used for blog posts
+-   Designing assets to be used in advertising
+-   Creating a "style guide" for Joystream
 
-1.  `Validators` will split $50 based per week on blocks found.
-2.  `Council Members` will receive $10 to get elected, + bonus if called to vote.
-3.  `Storage Providers` will split $300 per week based on uptime, + bonus for content stored.
-4.  `Builders and Bug Reporters` can collect bounties for finding or fixing bugs.
+Most of these changes will be pushed over the next few days. We hope that our community and stakeholders will be pleased with what they see!
 
-## Get Started
+The Results
+-----------
 
-If you just want to have a look at the new testnet, go [here](http://testnet.joystream.org/). If you need any help getting started, we ask you to consult our [helpdesk repo](https://github.com/JoyStream/helpdesk) first. If you have further questions, post them as `Issues` there, or ask in our [telegram](https://t.me/JoyStreamOfficial) and [rocket.chat](https://chat.joystream.org/home)!
+Instead of using this post to show you *all* of the new assets, logos and icons which you can expect to see deployed across our public-facing profiles and products, we thought it might be more helpful to share with you our new `Branding Guide`. This document offers a visual overview of the changes to the Joystream brand and provides some useful context and information about our new asset types.
 
-With a lot of changes since our last testnet, this applies just as much to old and new participants.
+# EMBEDDED PDF HERE
 
-## On-Chain Forum
+If you're using an older web browser, the PDF might not display correctly. If this is the case, please click [here](http://151.236.222.69/assets/brandguide.pdf) to download the guide and view it locally on your device.
 
-
-This is the first step in providing users, platform [role](https://www.joystream.org/roles) participants, council members and future stakeholders a way to communicate and coordinate. Hopefully, this method of interaction will further help develop a strong community around Joystream. Note that you have to be a `Member` to post, and only the forum moderator (forum sudo) can create categories.
-
-#### Storage Providers
-
-Note that all current `Storage Providers` will get booted once the new network is live. This is because new software is required.
-
----
+* * * * *
 
 #### Disclaimer
 
-All forward looking statements, estimates and commitments found in this blog post should be understood to be highly uncertain, not binding and for which no guarantees of accuracy or reliability can be provided. To the fullest extent permitted by law, in no event shall Joystream, Jsgenesis or our affiliates, or any of our directors, employees, contractors,  service providers or agents have any liability whatsoever to any person  for any direct or indirect loss, liability, cost, claim, expense or  damage of any kind, whether in contract or in tort, including negligence, or otherwise, arising out of or related to the use of all or  part of this post, or any links to third party websites.
+All forward looking statements, estimates and commitments found in this blog post should be understood to be highly uncertain, not binding and for which no guarantees of accuracy or reliability can be provided. To the fullest extent permitted by law, in no event shall Joystream, Jsgenesis or our affiliates, or any of our directors, employees, contractors,  service providers or agents have any liability whatsoever to any person  for any direct or indirect loss, liability, cost, claim, expense or  damage of any kind, whether in contract or in tort, including negligence, or otherwise, arising out of or related to the use of all or  part of this post, or any links to third party websites.
 
 #### Preview
 
-https://blog.joystream.org/p/28493a43-c8ab-4527-aa6a-13e15439f243/
+http://151.236.222.69/p/dca19604-608b-4d30-bca5-34542a545eed/
 
 #### Social media card cover
 
-<p align="center"><img src="acropolis-released.png"></p>
+<p align="center"><img src="announcing-new-branding.png"></p>
 
 #### Social media excerpt
 
-Acropolis is live!
+Take a look at our new brand identity!
