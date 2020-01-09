@@ -80,4 +80,4 @@ http://151.236.222.69/p/1f74389f-06fd-43e5-a331-6f66832dfd43/
 
 #### Social media excerpt
 
-Find out about our plans for Joystream in the near future.
+Find out about our plans for Joystream in the near future!
