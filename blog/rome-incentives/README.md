@@ -46,12 +46,12 @@ What you can do to qualify for getting paid on Rome is described below. More in
 Paid Roles
 ----------
 
-- [Content Creator](#content-creators)
-- [Content Curator](#content-curators)
-- [Storage Provider](#storage-providers)
-- [Validator](#validators)
-- [Council Member](#council-members)
-- [Bug Reporter](#bug-reporters-and-builders)
+- [Content Creator](#content-creators) 
+- [Content Curator](#content-curators) 
+- [Storage Provider](#storage-providers) 
+- [Validator](#validators) 
+- [Council Member](#council-members) 
+- [Bug Reporter](#bug-reporters-and-builders) 
 
 If you find one or more of these roles interesting, or want to learn about future roles on the network, we encourage you to visit the new [roles](https://joystream.org/roles) section on our website. Here you can browse through them and get a sense of what they will mean to the network, along with responsibilities and requirements.
 
@@ -62,7 +62,7 @@ Content Creators
 
 ![](Content%20Creators.png)
 
-Compete for $350 per week as a content creator
+<i>Compete for $350 per week as a content creator</i>
 
 When the Joystream mainnet is live, `Content Creators` will play a fundamental role within the platform's ecosystem. This is because they will be responsible for creating and uploading the enormous variety of different content types and genres which we believe will allow Joystream to grow into a successful decentralized media platform.
 
@@ -78,18 +78,18 @@ Uploading illegal or copyrighted content will result in a disqualification from 
 
 | CONTENT TYPE | MAXIMUM PAYMENT PER ITEM | MAXIMUM WEEKLY POOL |
 | --- | --- | --- |
-| Album Item (Standard) | $0.40 per track* | $100 |
+| Album Item (Standard) | $0.50 per track* | $100 |
 | Completed Album (Bonus) | $1 per completed* | $50 |
-| Short Video (Standard) | $0.40 per video* | $70 |
-| Long Video (Standard) | $0.60 per video* | $100 |
+| Short Video (Standard) | $0.35 per video* | $70 |
+| Long Video (Standard) | $0.50 per video* | $100 |
 | Best Content (Bonus) | $1.50 per item* | $30 |
 
 *It's important to note that the rewards listed in the table are maximums.
 
-For example, if more than 200 eBooks are uploaded in a week the reward per
-eBook item will be reduced for that week. In the case of 400 eBooks being
-uploaded, the reward will be halved to $0.225 per file ($90 ÷ 400). For 800
-eBooks in a week the reward would be $0.1125 and so on.
+For example, if more than 200 `short videos` are uploaded in a week the reward per
+short video item will be reduced for that week. In the case of 400 eBooks being
+uploaded, the reward will be halved to $0.175 per file ($70 ÷ 400). For 800
+eBooks in a week the reward would be $0.0875 and so on.
 
 Basically, the payment per item is constant until the number of items in
 category multiplied by maximum payment per item exceeds the maximum weekly
@@ -103,7 +103,7 @@ Content Curators
 
 ![](Content%20Curators.png)
 
-Earn your share of $375 per week
+<i>Earn your share of $375 per week</i>
 
 `Content Curators` will one day be essential for ensuring that the petabytes of media items uploaded to Joystream are formatted correctly and comprehensively monitored and moderated. Our upcoming testnet allows this content monitoring to take place by giving users who are selected for the role administrative access to the Joystream content directory to make changes where necessary.
 
@@ -120,7 +120,7 @@ Storage Providers
 
 ![](Storage%20Providers.png)
 
-Compete for $300 per week, plus bonus for data
+<i>Compete for $300 per week, plus bonus for data</i>
 
 Unlike `Validators` that can come and go without too much friction (at least for now), a new `Storage Provider` replicates the entire content directory. As a consequence, the platform needs some stability for this role to avoid a poor user experience, or worse, loss of data. After migrating to the Rome testnet, the users that currently hold the role will get "kicked" out, and will have to sign up again if they still want to keep their role.
 
@@ -135,7 +135,7 @@ Validators
 
 ![](Validators.png)
 
-Compete for $50 per week
+<i>Compete for $50 per week</i>
 
 In proof of stake systems, block producers, or `Validators`, are typically paid a fixed amount for each block produced. For Rome, the payout pool will remain the same at `$50` per week shared between all `Validators` on the network.
 
@@ -164,7 +164,7 @@ Council Members
 
 ![](Council%20Members.png)
 
-Earn $10 per election cycle
+<i>Earn $10 per election cycle</i>
 
 Council Members are elected by the stakeholders in the system to act in the interest of their constituency. Somewhat simplified, the Council will allocate the platform's resources, and hire executive personnel to run the day to day. We are looking at how to best incentivize them to act in the platform's long-term interest.
 
@@ -179,7 +179,7 @@ Bug Reporters and Builders
 
 ![](Bug%20Reporters%20and%20Builders.png)
 
-Earn monero for reporting bounties or fix bugs!
+<i>Earn monero for reporting bounties or fix bugs!</i>
 
 Unlike the `Validators` and `Council Members`, the bug bounty payments will be somewhat subjective. Long term, such decisions will be resolved by the platform, so in future testnets these payouts will at least partially be made by the Council.
 
@@ -195,7 +195,7 @@ Go to the applicable technical repo(s), eg. [node repo](https://github.com/Joys
 
 If you find something missing, inaccurate or poorly described, either report an `Issue`, or even better, make a `Pull request` in the [helpdesk repo](https://github.com/Joystream/helpdesk).
 
-If what you have found is from another non-code repo, eg. [landing repo](https://github.com/Joystream/joystream), [communications repo](https://github.com/Joystream/communications),  [bounties repo](https://github.com/Joystream/bounties), etc. it will most likely be covered by[ this bounty](https://github.com/Joystream/bounties/issues/3). Note that the bar here is quite low (grammar, dead links, etc.) so more significant findings can lead to a lot larger payouts.
+If what you have found is from another non-code repo, eg. [landing repo](https://github.com/Joystream/joystream), [communications repo](https://github.com/Joystream/communications),  [bounties repo](https://github.com/Joystream/bounties), etc. it will most likely be covered by [this bounty](https://github.com/Joystream/bounties/issues/3). Note that the bar here is quite low (grammar, dead links, etc.) so more significant findings can lead to a lot larger payouts.
 
 ### Fix a software bug, or add/improve a feature
 
@@ -207,7 +207,7 @@ The contributor must include either their Joystream or monero address when submi
 
 * * * * *
 
-###### Disclaimer
+#### Disclaimer
 
 All forward looking statements, estimates and commitments found in this blog post should be understood to be highly uncertain, not binding and for which no guarantees of accuracy or reliability can be provided. To the fullest extent permitted by law, in no event shall Joystream, Jsgenesis or our affiliates, or any of our directors, employees, contractors,  service providers or agents have any liability whatsoever to any person  for any direct or indirect loss, liability, cost, claim, expense or  damage of any kind, whether in contract or in tort, including negligence, or otherwise, arising out of or related to the use of all or  part of this post, or any links to third party websites.
 
