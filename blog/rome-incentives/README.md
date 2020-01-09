@@ -46,12 +46,12 @@ What you can do to qualify for getting paid on Rome is described below. More in
 Paid Roles
 ----------
 
-- [Content Creator](#content-creators) 
-- [Content Curator](#content-curators) 
-- [Storage Provider](#storage-providers) 
-- [Validator](#validators) 
-- [Council Member](#council-members) 
-- [Bug Reporter](#bug-reporters-and-builders) 
+- Content Creator
+- Content Curator
+- Storage Provider
+- Validator
+- Council Member
+- Bug Reporter
 
 If you find one or more of these roles interesting, or want to learn about future roles on the network, we encourage you to visit the new [roles](https://joystream.org/roles) section on our website. Here you can browse through them and get a sense of what they will mean to the network, along with responsibilities and requirements.
 
