@@ -2,84 +2,80 @@
 
 #### Title
 
-Acropolis Released
+Upcoming Joystream Testnets
 
 #### Purpose
 
-Let our community know the new testnet is out.
+Describe what the Joystream project might look like over the next couple of months
 
 #### url
 
-blog.joystream.org/acropolis-released/
+blog.joystream.org/upcoming-joystream-testnets
 
 #### Cover
 
-<p align="center"><img src="acropolis-released.png"></p>
+<p align="center"><img src="upcoming-joystream-testnets.png"></p>
 
 #### Lead
 
-After the Council successfully voted through the runtime upgrade, Acropolis is now live! Earn monero to participate
-
-Short excerpt:
-
-Acropolis is live!
+As we get closer to releasing our new Rome testnet, we wanted to share with our loyal supporters some of our plans and ideas for the next few releases and beyond.
 
 #### Body
 
-## Runtime Upgrade to Acropolis
+## Introduction
 
-As described in [this post](https://blog.joystream.org/upgrades/), the Substrate SDK allows us to upgrade the consensus rules without a hardfork. That means we can do in-flight upgrades like these, without the need for `Validators` or other full nodes to do anything to stay in consensus.
+We are often asked about features that we hope to implement in future testnets and we encourage discussions about this topic in our Telegram Group, on-chain forum and GitHub repositories. This blog post will aim to address some of the uncertainty surrounding our ambitions for future testnet releases over the next few months and years.
 
-## Get Paid to Participate
+## Rome
 
+Since our [last blog post](http://151.236.222.69/announcing-rome) on Rome, we have made some important changes to the way our next testnet is likely to work.
 
-In a previous [post](https://blog.joystream.org/pay-for-play/), we explained the philosophy of why we are paying users to contribute on our testnet.
+We have also made some important decisions about which types of content Pioneer (our testnet application) will support upon launch. While previously we had said that we would introduce support for eBooks, podcasts and videos, we have now scaled down our goals and will be supporting two content types on launch: videos and music albums.
 
-In our last [post](https://blog.joystream.org/acropolis-incentives/), we outlined the incentive structure for Acropolis. The specifics of this is also available in our new [helpdesk repo](https://github.com/JoyStream/helpdesk).
+You can follow our progress on Rome in our [GitHub repos](https://github.com/joystream).
 
-<p align="center">
-    <img src="monero.png" style="height:300px">
-        <div style='text-align: center;'>Participants can earn monero</div>
-</p>
+## Constantinople
+We have big ambitions for our post-Rome testnet.
 
+Among the features and changes you might see in Constantinople:
+- Getting rid of the memo module
+- [Major improvements to the on-chain forum](https://github.com/Joystream/joystream/issues/150)
+- More focus on developing measures to prevent Sybil attacks
+- Introduction of communication features for members
+- An advanced proposal system which facilitates discussion
+- Encouraging further [sideprojects](https://github.com/Joystream/joystream/issues?q=is%3Aopen+is%3Aissue+label%3A%22side+project%22) for new developers
 
+<i>Note: All of these features are in the discussion and planning stage, and we can't promise that they'll be included.</i>
 
-The following roles qualify for rewards:
+## Future Releases
+We can promise with even less certainty what users might be able to expect from the testnets which follow Rome and Constantinople. We learn a great deal from each release, and the lessons from every release are factored into our planning for the next. Nonetheless, we have had discussions about the more distant future for Joystream and some of the results of these discussions are listed below.
 
-1.  `Validators` will split $50 based per week on blocks found.
-2.  `Council Members` will receive $10 to get elected, + bonus if called to vote.
-3.  `Storage Providers` will split $300 per week based on uptime, + bonus for content stored.
-4.  `Builders and Bug Reporters` can collect bounties for finding or fixing bugs.
+Broadly speaking, you can expect our goals to follow those set out in our OKRs (available to view [here](https://github.com/Joystream/joystream/tree/master/okrs)).
+Some of the ideas that have been suggested for implementation in these further ahead releases include:
 
-## Get Started
+- JoystreamSDK - An integrated SDK for writing applications on top of Joystream.
+- A Joystream command-line interface
+- A proof-of-concept advertising system
+- Developing "tranches" for storage providers and bandwidth providers
 
-If you just want to have a look at the new testnet, go [here](http://testnet.joystream.org/). If you need any help getting started, we ask you to consult our [helpdesk repo](https://github.com/JoyStream/helpdesk) first. If you have further questions, post them as `Issues` there, or ask in our [telegram](https://t.me/JoyStreamOfficial) and [rocket.chat](https://chat.joystream.org/home)!
+## Summary
+Ultimately, Joystream aims to become the platform described in our [whitepaper](https://github.com/Joystream/whitepaper/blob/master/paper.pdf). 
 
-With a lot of changes since our last testnet, this applies just as much to old and new participants.
+We will need community involvement to make our ambitious vision of Joystream become a reality and we are grateful for all of the support we have received so far.
 
-## On-Chain Forum
+If you would like to participate in the project, please visit our [helpdesk repo](https://github.com/Joystream/helpdesk) on GitHub for tips on getting started on our Acropolis Testnet. We'd also love to have you in our [Telegram group](https://t.me/JoyStreamOfficial)!
 
-
-This is the first step in providing users, platform [role](https://www.joystream.org/roles) participants, council members and future stakeholders a way to communicate and coordinate. Hopefully, this method of interaction will further help develop a strong community around Joystream. Note that you have to be a `Member` to post, and only the forum moderator (forum sudo) can create categories.
-
-#### Storage Providers
-
-Note that all current `Storage Providers` will get booted once the new network is live. This is because new software is required.
-
----
-
-#### Disclaimer
-
+### Disclaimer
 All forward looking statements, estimates and commitments found in this blog post should be understood to be highly uncertain, not binding and for which no guarantees of accuracy or reliability can be provided. To the fullest extent permitted by law, in no event shall Joystream, Jsgenesis or our affiliates, or any of our directors, employees, contractors,  service providers or agents have any liability whatsoever to any person  for any direct or indirect loss, liability, cost, claim, expense or  damage of any kind, whether in contract or in tort, including negligence, or otherwise, arising out of or related to the use of all or  part of this post, or any links to third party websites.
 
 #### Preview
 
-https://blog.joystream.org/p/28493a43-c8ab-4527-aa6a-13e15439f243/
+http://151.236.222.69/p/1f74389f-06fd-43e5-a331-6f66832dfd43/
 
 #### Social media card cover
 
-<p align="center"><img src="acropolis-released.png"></p>
+<p align="center"><img src="upcoming-joystream-testnets.png"></p>
 
 #### Social media excerpt
 
-Acropolis is live!
+Find out about our plans for Joystream in the near future.
