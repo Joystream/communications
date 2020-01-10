@@ -48,7 +48,7 @@ A copy of all posts from our [ghost](https://github.com/TryGhost/Ghost) [blog](h
 | [Joystream Platform Roles](/blog/platform-roles)                              | /platform-roles/              | 04.06.19 | General               |
 | [The Acropolis Incentive Structure](/blog/acropolis-incentives)               | /acropolis-incentives         | 21.06.19 | Release - Acropolis   |
 | [Acropolis Released](/blog/acropolis-released)                                | /acropolis-released           | 24.06.19 | Release - Acropolis   |
-| [Announcing Rome](/blog/announcing-rome)                                      || /announcing-rome             | 23.08.19 | Release - Rome        |
+| [Announcing Rome](/blog/announcing-rome)                                      | /announcing-rome             | 23.08.19 | Release - Rome        |
 
 #### Drafts and Unpublished Posts
 | Title                                                                                | URL                                      | Status            | Category              |
