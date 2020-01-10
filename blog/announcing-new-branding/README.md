@@ -39,7 +39,7 @@ The problems we faced in this area included but were not limited to:
 -   Assets for certain purposes simply did not exist
 -   We had no established brand design guidelines or a style guide
 
-You can see [more of our discussion](https://github.com/joystream/design/issues?q=is%3Aissue+is%3Aclosed) about these issues in our design repo on GitHub.
+You can see [more of our discussion](https://github.com/joystream/design/issues?q=is%3Aissue) about these issues in our design repo on GitHub.
 
 The Solution
 ------------
@@ -78,6 +78,8 @@ EMBEDDED PDF HERE
 
 If you're using an older web browser, the PDF might not display correctly. If this is the case, please click [here](http://151.236.222.69/assets/brandguide.pdf) to download the guide and view it locally on your device.
 
+<!--- REPLACE LINK ABOVE ON PUBLICATION --->
+
 * * * * *
 
 #### Disclaimer
@@ -88,9 +90,11 @@ All forward looking statements, estimates and commitments found in this blog pos
 
 http://151.236.222.69/p/dca19604-608b-4d30-bca5-34542a545eed/
 
+<!--- REPLACE LINK ABOVE ON PUBLICATION --->
+
 #### Social media card cover
 
-<p align="center"><img src="announcing-new-branding.png"></p>
+<p align="center"><img src="twitter-cover.png"></p>
 
 #### Social media excerpt
 
