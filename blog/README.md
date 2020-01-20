@@ -1,4 +1,4 @@
-<p align="center"><img src="blog.svg"></p>
+<p align="center"><img src="blog_new.svg"></p>
 
 # Table of contents
 <!-- TOC START min:1 max:4 link:true asterisk:false update:true -->
