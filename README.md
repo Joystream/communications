@@ -49,11 +49,13 @@ A copy of all posts from our [ghost](https://github.com/TryGhost/Ghost) [blog](h
 | [The Acropolis Incentive Structure](/blog/acropolis-incentives)               | /acropolis-incentives         | 21.06.19 | Release - Acropolis   |
 | [Acropolis Released](/blog/acropolis-released)                                | /acropolis-released           | 24.06.19 | Release - Acropolis   |
 | [Announcing Rome](/blog/announcing-rome)                                      | /announcing-rome             | 23.08.19 | Release - Rome        |
+| [Announcing New Brand Identity](/blog/announcing-new-branding)         | /announcing-new-branding/ | 21.01.20       | General      |
+
 
 #### Drafts and Unpublished Posts
 | Title                                                                                | URL                                      | Status            | Category              |
 | -------------------------------------------------------------------------------------|------------------------------------------| ------------------| --------------        |
-| [Announcing New Brand Identity](/blog/announcing-new-branding)         | /p/dca19604-608b-4d30-bca5-34542a545eed/ | Unpublished       | General      |
+| -         | - | -       | -      |
 
 
 
