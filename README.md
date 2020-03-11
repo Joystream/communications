@@ -55,7 +55,7 @@ A copy of all posts from our [ghost](https://github.com/TryGhost/Ghost) [blog](h
 #### Drafts and Unpublished Posts
 | Title                                                                                | URL                                      | Status            | Category              |
 | -------------------------------------------------------------------------------------|------------------------------------------| ------------------| --------------        |
-| -         | - | -       | -      |
+| [From Acropolis To Rome](/blog/from-acropolis-to-rome)          | /p/7aa0e4fc-a848-45bd-915c-2fdbf8bd6bfd/ | Unpublished       | Release - Rome      |
 
 
 
