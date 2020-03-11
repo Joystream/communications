@@ -41,7 +41,7 @@ What's New In Rome?
 
 Rome's main additions are the roles of `Content Curator` and `Content Creator`. We have also introduced the concept of channels, allowing one membership to create a selection of different channels on which to host content. Many other changes have been made to allow for easier navigation and to improve the user experience.
 
-We will be releasing information on Rome's incentive structure on Friday. This will provide rewards for validation, council membership and content storage (as before) but will also introduce a compensation structure for content creation and curation.
+We will be releasing information on Rome's incentive structure on Friday. Guides and binaries will also be available before the launch on Monday. This will provide rewards for validation, council membership and content storage (as before) but will also introduce a compensation structure for content creation and curation.
 
 
 * * * * *
