@@ -27,9 +27,9 @@ After almost nine months of experimentation by testnet participants on Acropolis
 The Plan
 --------
 
-The main aspect of the release process for participants to be aware of is our intention to "kill" the Acropolis chain this Friday (13th March). The snapshot for Acropolis will be taken at block number `4,718,300`.
+The main aspect of the release process for participants to be aware of is our intention to "kill" the Acropolis chain this Friday (13th March). The snapshot for Acropolis was taken at block number `4,718,300`.
 
-We will then migrate all memberships from Acropolis over to Rome and each account will be given a small starting balance of `2000JOY`. If everything goes according to plan, the new chain for Rome will be launched on Monday (16th March) at approximately midday.
+We will migrate all memberships and forum posts (but not media content) from Acropolis over to Rome and each existing membership will be given a small starting balance of `2000JOY`. If everything goes according to plan, the new chain for Rome will be launched on Monday (16th March) at approximately midday.
 
 All `Validators` and `Storage Providers` will be booted and will need to get set up on the new chain once live. While the requirements for being a storage provider are unchanged, there will be some changes in the method for validating on the network. More information on how to validate on Rome will be available shortly.
 
