@@ -22,7 +22,7 @@ We bid farewell to Acropolis to welcome our new testnet, Rome!
 
 #### Body
 
-After almost nine months of experimentation by testnet participants on Acropolis, we are now ready to move on to our latest release, codenamed Rome, which incorporates a variety of new features.
+After a long development development cycle, we are ready to move on to our latest release, codenamed Rome, which incorporates a variety of new features.
 
 The Plan
 --------
