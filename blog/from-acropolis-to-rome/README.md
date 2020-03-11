@@ -34,6 +34,7 @@ We will migrate all memberships and forum posts (but not media content) from Acr
 All `Validators` and `Storage Providers` will be booted and will need to get set up on the new chain once live. While the requirements for being a storage provider are unchanged, there will be some changes in the method for validating on the network. More information on how to validate on Rome will be available shortly.
 
 More information on the release timeline is available in the GitHub issue here:
+https://github.com/Joystream/joystream/issues/103
 
 What's New In Rome?
 -------------------
