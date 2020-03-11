@@ -24,12 +24,12 @@ We bid farewell to Acropolis to welcome our new testnet, Rome!
 
 After a long development development cycle, we are ready to move on to our latest release, codenamed Rome, which incorporates a variety of new features.
 
-The Plan
---------
+Release Outline
+---------------
 
 The main aspect of the release process for participants to be aware of is our intention to "kill" the Acropolis chain this Friday (13th March). The snapshot for Acropolis was taken at block number `4,718,300`.
 
-We will migrate all memberships and forum posts made before the snapshot from Acropolis over to Rome and each existing membership will be given a small starting balance. If everything goes according to plan, the new chain for Rome will be launched on Monday (16th March) at approximately midday.
+We will migrate all memberships and forum posts made before the snapshot from Acropolis over to Rome and each existing membership will be given a small starting balance. If everything goes according to plan, the new chain for Rome will be launched on Monday (16th March) at approximately midday. Validators and Storage Providers will receive a full weeks payment, but will not start with any privileges for Rome.
 
 All `Validators` and `Storage Providers` will be booted and will need to get set up on the new chain once live. While the requirements for being a storage provider are unchanged, there will be some changes in the method for validating on the network. More information on how to validate on Rome will be available shortly.
 
@@ -41,12 +41,8 @@ What's New In Rome?
 
 Rome's main additions are the roles of `Content Curator` and `Content Creator`. We have also introduced the concept of channels, allowing one membership to create a selection of different channels on which to host content. Many other changes have been made to allow for easier navigation and to improve the user experience.
 
-We will be releasing information on Rome's incentive structure soon. This will provide rewards for validation, council membership and content storage (as before) but will also introduce a compensation structure for content creation and curation.
+We will be releasing information on Rome's incentive structure on Friday. This will provide rewards for validation, council membership and content storage (as before) but will also introduce a compensation structure for content creation and curation.
 
-After Rome
-----------
-
-Once Rome is released, we will immediately begin development of our subsequent testnet release, codenamed Constantinople. Stay tuned to our blog and other communications channels for more updates on this.
 
 * * * * *
 
