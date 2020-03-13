@@ -31,8 +31,8 @@ Rome is set to be launched on Monday 16th March. Read more about the procedure f
 Executive Summary
 -----------------
 
-- `Content Creators` receive up to $0.60 per qualifying item of content uploaded
-- `Content Curators` earn either $30 or $60 per week, depending on workload
+- `Content Creators` receive up to $0.50 per qualifying item of content uploaded plus bonuses
+- `Content Curators` earn either $15 or $30 per week, depending on workload
 - `Storage Providers` will share $120 per week, plus $0.03/GB per week
 - `Validators` are competing for their share of $50 per week
 - `Council Members` are paid $10 for getting elected, with a $10 bonus
