@@ -24,7 +24,7 @@ Rome offers a new incentive structure for our testnet participants.
 
 As with Sparta, Athens and Acropolis we plan to pay users in monero (XMR) to participate on our upcoming testnet release, codenamed Rome. Our fifth testnet ambitiously introduces two new paid roles which we are extremely excited about!
 
-Rome will differ slightly from Acropolis in that it will have dynamic incentives in order to allocate resources more efficiently, ensure good uptime for validators and storage providers, promtote responsiveness and activity by content creators and curators and to help prepare for our next testnet, which will shift the responsibility of setting rewards from Jsgenesis to the council. This means that all of the compensation structures listed below are subject to review at any time.
+Rome will differ slightly from Acropolis in that it will have dynamic incentives in order to allocate resources more efficiently, ensure good uptime for validators and storage providers, promtote responsiveness and activity by content creators and curators and to help prepare for our next testnet, which will shift the responsibility of setting rewards from Jsgenesis to the council. This means that all of the compensation structures listed below are subject to review at any time. Once Rome is launched we will create a forum post where the payouts for each role will be reviewed every week.
 
 Rome is set to be launched on Monday 16th March. Read more about the procedure for the release [here](https://blog.joystream.org/from-acropolis-to-rome/). Updated guides for testnet roles will be released on Sunday 15th March. Prospective participants should familiarize themselves with these guides before launch for the best chance of winning a spot in one of these competitive roles.
 
