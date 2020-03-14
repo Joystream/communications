@@ -113,7 +113,7 @@ If successful in their application, curators will be rewarded with a flat reward
 
 There will also be two bonuses of `$20` and `$10` per week for the two most active curators respectively in terms of monitoring the items in the content directory for compliance with our metadata, category and content rules. These bonuses will be awarded by the `Content Curator Lead`. In total, during a typical week, `Content Curators` will be competing for their share of `$375` in XMR.
 
-Inactive malicious curators will be slashed and booted by the `Content Curator Lead`.
+Inactive and/or malicious curators will be booted, and potentially slashed by the `Content Curator Lead`.
 
 Payouts will be made every Monday at ~11:00GMT.
 
