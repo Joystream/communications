@@ -90,7 +90,7 @@ We will provide `Content Creators` with a list of sources for safe and non-copyr
 
 | CONTENT TYPE | MAXIMUM PAYMENT PER ITEM | MAXIMUM QUALIFYING UPLOADS |  MAXIMUM PAYOUT POOL |
 | --- | --- | --- |  --- |
-| Video (Standard) | $0.50 per video | 100 | $50 |
+| Video (Standard) | $0.50 per video | 200 | $100 |
 | Best Content (Bonus) | $1 per video | 25 | $25 |
 | Original Content (Bonus) | $1 per video | 25 | $25 |
 
