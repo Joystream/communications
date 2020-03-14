@@ -70,7 +70,7 @@ Content Creators
 
 ![](Content%20Creators.png)
 
-<i>Compete for $100 per week as a content creator</i>
+<i>Compete for up to $250 per week as a content creator</i>
 
 When the Joystream mainnet is live, `Content Creators` will be responsible for creating and uploading the enormous variety of different content types and genres which we believe will allow Joystream to grow into a successful decentralized media platform.
 
