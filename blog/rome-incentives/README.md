@@ -107,7 +107,7 @@ Content Curators
 
 `Content Curators` will one day be essential for ensuring that the petabytes of media items uploaded to Joystream are formatted correctly and comprehensively monitored and moderated. Our upcoming testnet allows this content monitoring to take place by giving users who are selected for the role administrative access to the Joystream content directory to make changes where necessary.
 
-We will have five slots available for `Content Curators` when Rome is launched, but this may be modified depending on demand and activity. They will need to apply to the `Content Curator Lead` (a `sudo` role operated by [Jsgenesis](https://jsgenesis.com/)) and will have their application assessed by this lead before being added as a curator for a default term of one week. As the network matures, the `Content Curator Lead` role will be delegated to a community member.
+We will have five slots available for `Content Curators` when Rome is launched, but this may be modified depending on demand and activity. They will need to apply to the `Content Curator Lead` (a working group lead role operated by [Jsgenesis](https://jsgenesis.com/)) and will have their application assessed by this lead before being added as a curator for a default term of one week. As the network matures, the `Content Curator Lead` role will be delegated to a community member.
 
 If successful in their application, curators will be rewarded with a flat reward of `$30` per week, resulting in a maximum pool of `$150` if all five content curators are signed up. If there are less than 100 pieces of content uploaded in the week in which a curator is operating, the individual payout will be reduced to `$15` for that week, resulting in a total pool of `$75`.
 
