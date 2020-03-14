@@ -94,7 +94,7 @@ We will provide `Content Creators` with a list of sources for safe and non-copyr
 | Best Content (Bonus) | $5 per video | 10 | $50 |
 | Original Content (Bonus) | $10 per video | 10 | $100 |
 
-Payments will only be made for the first `X` items per week out of the quota which are uploaded other than for `best` content, for which the whole week's uploads will be reviewed.
+Payments will only be made for the first `X` items per week out of the quota which are uploaded other than for `best` and `original` content, for which the whole week's uploads will be reviewed.
 
 Payouts for this role will be made every Monday at ~11:00GMT.
 
