@@ -92,7 +92,7 @@ We will provide `Content Creators` with a list of sources for safe and non-copyr
 | --- | --- | --- |  --- |
 | Video (Standard) | $0.50 per video | 200 | $100 |
 | Best Content (Bonus) | $5 per video | 10 | $50 |
-| Original Content (Bonus) | $1 per video | 25 | $25 |
+| Original Content (Bonus) | $10 per video | 10 | $100 |
 
 Payments will only be made for the first `X` items per week out of the quota which are uploaded other than for `best` content, for which the whole week's uploads will be reviewed.
 
