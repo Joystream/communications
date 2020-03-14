@@ -103,7 +103,7 @@ Content Curators
 
 ![](Content%20Curators.png)
 
-<i>Earn your share of $375 per week</i>
+<i>Earn your share of $180 per week</i>
 
 `Content Curators` will one day be essential for ensuring that the petabytes of media items uploaded to Joystream are formatted correctly and comprehensively monitored and moderated. Our upcoming testnet allows this content monitoring to take place by giving users who are selected for the role administrative access to the Joystream content directory to make changes where necessary.
 
@@ -111,7 +111,7 @@ We will have five slots available for `Content Curators` when Rome is launched, 
 
 If successful in their application, curators will be rewarded with a flat reward of `$30` per week, resulting in a maximum pool of `$150` if all five content curators are signed up, and stays in the role the entire week.
 
-There will also be two bonuses of `$20` and `$10` per week for the two most active curators respectively in terms of monitoring the items in the content directory for compliance with our metadata, category and content rules. These bonuses will be awarded by the `Content Curator Lead`. In total, during a typical week, `Content Curators` will be competing for their share of `$375` in XMR.
+There will also be two bonuses of `$20` and `$10` per week for the two most active curators respectively in terms of monitoring the items in the content directory for compliance with our metadata, category and content rules. These bonuses will be awarded by the `Content Curator Lead`. In total, during a typical week, `Content Curators` will be competing for their share of `$180` in XMR.
 
 Inactive and/or malicious curators will be booted, and potentially slashed by the `Content Curator Lead`.
 
