@@ -50,12 +50,13 @@ A copy of all posts from our [ghost](https://github.com/TryGhost/Ghost) [blog](h
 | [Acropolis Released](/blog/acropolis-released)                                | /acropolis-released           | 24.06.19 | Release - Acropolis   |
 | [Announcing Rome](/blog/announcing-rome)                                      | /announcing-rome             | 23.08.19 | Release - Rome        |
 | [Announcing New Brand Identity](/blog/announcing-new-branding)         | /announcing-new-branding/ | 21.01.20       | General      |
+| [From Acropolis To Rome](/blog/from-acropolis-to-rome)          | /from-acropolis-to-rome/ | 11.03.20       | Release - Rome      |
 
 
 #### Drafts and Unpublished Posts
 | Title                                                                                | URL                                      | Status            | Category              |
 | -------------------------------------------------------------------------------------|------------------------------------------| ------------------| --------------        |
-| [From Acropolis To Rome](/blog/from-acropolis-to-rome)          | /p/7aa0e4fc-a848-45bd-915c-2fdbf8bd6bfd/ | Unpublished       | Release - Rome      |
+| [The Rome Incentive Structure](/blog/rome-incentives)          | /p/c8c9f496-5808-4cf4-9b96-10dcf192877c/ | Unpublished       | Release - Rome      |
 
 
 
