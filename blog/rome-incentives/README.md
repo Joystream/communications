@@ -74,7 +74,9 @@ Content Creators
 
 When the Joystream mainnet is live, `Content Creators` will be responsible for creating and uploading the enormous variety of different content types and genres which we believe will allow Joystream to grow into a successful decentralized media platform.
 
-For the Rome testnet, we will pay a flat-rate Monero reward for every piece of content uploaded by `Content Creators` up to a weekly limit. We will also pay a $1 bonus on top of this rate for each of the 25 best pieces of content that are uploaded every week to encourage higher quality uploads. A separate $1 bonus will be paid for the first 25 items of "original"* content every week. The maximum weekly incentive pool of $200 will be divided between these two categories of incentive.
+For the Rome testnet, we will pay a flat-rate Monero reward for every piece of content uploaded by `Content Creators` up to a weekly limit. We will also pay a $5 bonus on top of this rate for each of the 10 best pieces of content that are uploaded every week to encourage higher quality uploads. 
+
+A separate $10 bonus will be paid for up to 10 items of quality "original"* content every week. The maximum weekly incentive pool of $250 will be divided between these two categories of incentive.
 
 * Original here means creative work that you created yourself and own exclusive the rights to.
 
