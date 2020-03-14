@@ -24,9 +24,11 @@ Rome offers a new incentive structure for our testnet participants.
 
 As with Sparta, Athens and Acropolis we plan to pay users in monero (XMR) to participate on our upcoming testnet release, codenamed Rome. Our fifth testnet ambitiously introduces two new paid roles which we are extremely excited about!
 
-Rome will differ slightly from Acropolis in that it will have dynamic incentives in order to allocate resources more efficiently, ensure good uptime for validators and storage providers, promtote responsiveness and activity by content creators and curators and to help prepare for our next testnet, which will shift the responsibility of setting rewards from Jsgenesis to the council. This means that all of the compensation structures listed below are subject to review at any time. Once Rome is launched we will create a forum post where the payouts for each role will be reviewed every week.
+Rome will differ slightly from Acropolis in that it will have dynamic incentives in order to allocate resources more efficiently, ensure good uptime for validators and storage providers, promtote responsiveness and activity by content creators and curators and to help prepare for our next testnet, which will shift the responsibility of setting rewards from Jsgenesis to the council. This means that all of the compensation structures listed below are simply the starting figures and are subject to review at the end of every pay period (usually every week). Once Rome is launched we will create a forum post where the payouts for each role will be reviewed each week. We won't ever revise payments <i>down</i> in the middle of a payment period (week), but in cases where a role is unprofitable there is a chance payments could be revised <i>up</i>.
 
 Rome is set to be launched on Monday 16th March. Read more about the procedure for the release [here](https://blog.joystream.org/from-acropolis-to-rome/). Updated guides for testnet roles will be released on Sunday 15th March. Prospective participants should familiarize themselves with these guides before launch for the best chance of winning a spot in one of these competitive roles.
+
+<i>Note: We might be delayed by a couple of days relative to the dates outlined above due to illness in the Jsgenesis team.</i>
 
 Executive Summary
 -----------------
@@ -34,7 +36,7 @@ Executive Summary
 - `Content Creators` receive up to $0.50 per qualifying item of content uploaded plus bonuses
 - `Content Curators` earn either $15 or $30 per week, depending on workload
 - `Storage Providers` will share $120 per week, plus $0.03/GB per week
-- `Validators` are competing for their share of $50 per week
+- `Validators` are competing for their share of $100 per week
 - `Council Members` are paid $10 for getting elected, with a $10 bonus
 - `Bug Reporters` can continue to earn monero for reporting and/or fixing bugs
 
@@ -68,42 +70,29 @@ Content Creators
 
 ![](Content%20Creators.png)
 
-<i>Compete for $220 per week as a content creator</i>
+<i>Compete for $100 per week as a content creator</i>
 
-When the Joystream mainnet is live, `Content Creators` will play a fundamental role within the platform's ecosystem. This is because they will be responsible for creating and uploading the enormous variety of different content types and genres which we believe will allow Joystream to grow into a successful decentralized media platform.
+When the Joystream mainnet is live, `Content Creators` will be responsible for creating and uploading the enormous variety of different content types and genres which we believe will allow Joystream to grow into a successful decentralized media platform.
 
-For the Rome testnet, we plan to pay a flat-rate Monero reward for every piece of content uploaded by `Content Creators` (with a different rate for each content type). We will also pay a $1 bonus on top of this rate for the each 25 best pieces of content that are uploaded every week to encourage higher quality uploads. A separate $1 bonus will be paid for the first 25 items of "original"* content every week. The maximum weekly incentive pool of $200 will be divided between these two categories of incentive.
+For the Rome testnet, we will pay a flat-rate Monero reward for every piece of content uploaded by `Content Creators` up to a weekly limit. We will also pay a $1 bonus on top of this rate for each of the 25 best pieces of content that are uploaded every week to encourage higher quality uploads. A separate $1 bonus will be paid for the first 25 items of "original"* content every week. The maximum weekly incentive pool of $200 will be divided between these two categories of incentive.
 
 * Original here means creative work that you created yourself and own exclusive the rights to.
 
 Prospective `Content Creators` should also be aware that we will only pay the item reward for content with complete metadata and which follows the set-out requirements for each content type (to be released at a later date).
 
-The `Content Curators` (see below) will be incentivized to find content with incorrect metadata and will likely remove it from the content directory. In these cases, content creators will not be paid. Multiple spam uploads which represent a burden to moderate for the `Content Curators` may even be penalized and result in deductions on payouts due for qualifying content uploads on your content creator profile.
-
-Uploading illegal or copyrighted content will result in a disqualification from payouts. It will also result in the takedown of content, potentially slashing of funds, and the deletion of your channel.
+Uploading illegal or copyrighted content will result in a disqualification from payouts. It will also result in the takedown of content, potentially slashing of funds, and the deletion of your channel. Multiple spam uploads which represent a burden to moderate for the `Content Curators` may even be penalized and result in deductions on payouts due for qualifying content uploads on your content creator profile.
 
 We will provide `Content Creators` with a list of sources for safe and non-copyrighted material which can be uploaded as part of this testnet and will qualify for the payments discussed above and laid out in the table below.
 
 ### Rewards based on content type
 
-| CONTENT TYPE | MAXIMUM PAYMENT PER ITEM | MAXIMUM WEEKLY POOL |
-| --- | --- | --- |
-| Short Video (Standard) | $0.35 per video* | $70 |
-| Long Video (Standard) | $0.50 per video* | $100 |
-| Best Content (Bonus) | $1 per item* | $25 |
-| Original Content (Bonus) | $1 per item* | $25 |
+| CONTENT TYPE | MAXIMUM PAYMENT PER ITEM | MAXIMUM QUALIFYING UPLOADS |  MAXIMUM PAYOUT POOL |
+| --- | --- | --- |  --- |
+| Video (Standard) | $0.50 per video | 100 | $50 |
+| Best Content (Bonus) | $1 per video | 25 | $25 |
+| Original Content (Bonus) | $1 per video | 25 | $25 |
 
-*It's important to note that the rewards listed in the table are maximums. Short videos are under four minutes and long videos exceed four minutes in length.
-
-For example, if more than 200 `short videos` are uploaded in a week the reward per
-short video item will be reduced for that week. In the case of 400 `short videos` being
-uploaded, the reward will be halved to $0.175 per file ($70 ÷ 400). For 800
-`short videos` in a week the reward would be $0.0875 and so on.
-
-Basically, the payment per item is constant until the number of items in
-category multiplied by maximum payment per item exceeds the maximum weekly
-pool. We have chosen this reward structure in order to incentivize users to
-upload a variety of different content types on Rome.
+Payments will only be made for the first `X` items per week out of the quota which are uploaded other than for `best` content, for which the whole week's uploads will be reviewed.
 
 Payouts for this role will be made every Monday at ~11:00GMT.
 
@@ -116,13 +105,13 @@ Content Curators
 
 `Content Curators` will one day be essential for ensuring that the petabytes of media items uploaded to Joystream are formatted correctly and comprehensively monitored and moderated. Our upcoming testnet allows this content monitoring to take place by giving users who are selected for the role administrative access to the Joystream content directory to make changes where necessary.
 
-We will have five slots available for `Content Curators` when Rome is launched. They will need to apply to the `Content Curator Lead` (a `sudo` role operated by [Jsgenesis](https://jsgenesis.com/)) and will have their application assessed by this lead before being added as a curator for a default term of one week.
+We will have five slots available for `Content Curators` when Rome is launched, but this may be modified depending on demand and activity. They will need to apply to the `Content Curator Lead` (a `sudo` role operated by [Jsgenesis](https://jsgenesis.com/)) and will have their application assessed by this lead before being added as a curator for a default term of one week. As the network matures, the `Content Curator Lead` role will be delegated to a community member.
 
 If successful in their application, curators will be rewarded with a flat reward of `$30` per week, resulting in a maximum pool of `$150` if all five content curators are signed up. If there are less than 100 pieces of content uploaded in the week in which a curator is operating, the individual payout will be reduced to `$15` for that week, resulting in a total pool of `$75`.
 
 There will also be two bonuses of `$20` and `$10` per week for the two most active curators respectively in terms of monitoring the items in the content directory for compliance with our metadata, category and content rules. These bonuses will be awarded by the `Content Curator Lead`. In total, during a typical week, `Content Curators` will be competing for their share of `$375` in XMR.
 
-Inactive and/or malicious curators will be booted, and potentially slashed by the `Content Curator Lead`.
+Inactive malicious curators will be slashed and booted by the `Content Curator Lead`.
 
 Payouts will be made every Monday at ~11:00GMT.
 
@@ -141,20 +130,18 @@ We will be closely monitoring `Storage Providers` for Rome (more so than we did 
 
 Payouts will be made every Monday at ~11:00GMT.
 
-A detailed guide to setting up the node [can be found here](https://github.com/Joystream/helpdesk/tree/master/roles/storage-providers).
-
 Validators
 ----------
 
 ![](Validators.png)
 
-<i>Compete for $50 per week</i>
+<i>Compete for $100 per week</i>
 
-In proof of stake systems, block producers, or `Validators`, are typically paid a fixed amount for each block produced. For Rome, the payout pool will remain the same at `$50` per week shared between all `Validators` on the network.
+In proof of stake systems, block producers, or `Validators`, are typically paid a fixed amount for each block produced. For Rome, the payout pool will remain the same at `$100` per week shared between all `Validators` on the network.
 
 ```
 blocktime = 6
-weekly_reward = 5000
+weekly_reward = 10000
 seconds_in_week = 60*60*24*7
 
 blockreward = (weekly_reward * blocktime)/seconds_in_week
@@ -162,11 +149,11 @@ print(blockreward)
 
 ----
 
-0.05
+0.10
 
 ```
 
-The number - 0.05 cents per block - seems a bit underwhelming, but validation requires little effort for the user after setup, and blocks come in every 6secs. With armv7 binaries or low-end VPS nodes, it should be cheap to run! A detailed guide to setting up the `Validator` node and settings can be found [here](https://github.com/Joystream/helpdesk/tree/master/roles/validators).
+The number - 0.10 cents per block - seems a bit underwhelming, but validation requires little effort for the user after setup, and blocks come in every 6secs. With armv7 binaries or low-end VPS nodes, it should be cheap to run! A detailed guide to setting up the `Validator` node and settings will be made available shortly.
 
 After migrating to the Rome testnet, the users that currently hold the role will get "kicked" out, and will have to sign up again if they still want to keep their role.
 
@@ -181,7 +168,7 @@ Council Members
 
 Council Members are elected by the stakeholders in the system to act in the interest of their constituency. Somewhat simplified, the Council will allocate the platform's resources, and hire executive personnel to run the day to day. We are looking at how to best incentivize them to act in the platform's long-term interest.
 
-If during you term a proposal to upgrade the runtime is submitted by the `sudo` key, `5CJzTaCp5fuqG7NdJQ6oUCwdmFHKichew8w4RZ3zFHM8qSe6` anyone that votes `yes` will receive a bonus worth $10. A detailed explanation the election cycle and responsibilities can be found [here](https://github.com/Joystream/helpdesk/tree/master/roles/council-members).
+If during your term a proposal to upgrade the runtime is submitted by the `sudo` key, anyone that votes `yes` will receive a bonus worth $10. A detailed explanation the election cycle and responsibilities can be found [here](https://github.com/Joystream/helpdesk/tree/master/roles/council-members).
 
 During the `Announcement` and `Voting` stage, you should include some information about yourself, and why you should get elected in your `memo` field. If you do get elected, make sure to change the `memo` field to your monero address in order to get your reward.
 
