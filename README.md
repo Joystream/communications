@@ -48,15 +48,15 @@ A copy of all posts from our [ghost](https://github.com/TryGhost/Ghost) [blog](h
 | [Joystream Platform Roles](/blog/platform-roles)                              | /platform-roles/              | 04.06.19 | General               |
 | [The Acropolis Incentive Structure](/blog/acropolis-incentives)               | /acropolis-incentives         | 21.06.19 | Release - Acropolis   |
 | [Acropolis Released](/blog/acropolis-released)                                | /acropolis-released           | 24.06.19 | Release - Acropolis   |
-| [Announcing Rome](/blog/announcing-rome)                                      | /announcing-rome             | 23.08.19 | Release - Rome        |
-| [Announcing New Brand Identity](/blog/announcing-new-branding)         | /announcing-new-branding/ | 21.01.20       | General      |
-| [From Acropolis To Rome](/blog/from-acropolis-to-rome)          | /from-acropolis-to-rome/ | 11.03.20       | Release - Rome      |
-
+| [Announcing Rome](/blog/announcing-rome)                                      | /announcing-rome              | 23.08.19 | Release - Rome        |
+| [Announcing New Brand Identity](/blog/announcing-new-branding)                | /announcing-new-branding/     | 21.01.20 | General               |
+| [From Acropolis To Rome](/blog/from-acropolis-to-rome)                        | /from-acropolis-to-rome/      | 11.03.20 | Release - Rome        |
+| [The Rome Incentive Structure](/blog/rome-incentives)                         | /rome-incentives              | 14.03.20 | Release - Rome        |
 
 #### Drafts and Unpublished Posts
-| Title                                                                                | URL                                      | Status            | Category              |
-| -------------------------------------------------------------------------------------|------------------------------------------| ------------------| --------------        |
-| [The Rome Incentive Structure](/blog/rome-incentives)          | /p/c8c9f496-5808-4cf4-9b96-10dcf192877c/ | Unpublished       | Release - Rome      |
+| Title                                                                                | URL                                      | Status            | Category          |
+| -------------------------------------------------------------------------------------|------------------------------------------|-------------------|-------------------|
+| [Rome Released](/blog/drafts-unpublished/rome-released)                              | /p/1a79a5af-786a-4978-8f8f-ad15dcf56bd5/ | Unpublished       | Release - Rome    |
 
 
 
