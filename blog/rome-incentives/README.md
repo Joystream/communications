@@ -24,7 +24,7 @@ Rome offers a new incentive structure for our testnet participants.
 
 As with Sparta, Athens and Acropolis we plan to pay users in monero (XMR) to participate on our upcoming testnet release, codenamed Rome. Our fifth testnet ambitiously introduces two new paid roles which we are extremely excited about!
 
-Rome will differ slightly from Acropolis in that it will have dynamic incentives in order to allocate resources more efficiently, ensure good uptime for validators and storage providers, promtote responsiveness and activity by content creators and curators and to help prepare for our next testnet, which will shift the responsibility of setting rewards from Jsgenesis to the council. This means that all of the compensation structures listed below are simply the starting figures and are subject to review at the end of every pay period (usually every week). Once Rome is launched we will create a forum post where the payouts for each role will be reviewed each week. We won't ever revise payments <i>down</i> in the middle of a payment period (week), but in cases where a role is unprofitable there is a chance payments could be revised <i>up</i>.
+Rome will differ slightly from Acropolis in that it will have dynamic incentives in order to allocate resources more efficiently, ensure good uptime for validators and storage providers, promote responsiveness and activity by content creators and curators and to help prepare for our next testnet, which will shift the responsibility of setting rewards from Jsgenesis to the council. This means that all of the compensation structures listed below are simply the starting figures and are subject to review at the end of every pay period (usually every week). Once Rome is launched we will create a forum post where the payouts for each role will be reviewed each week. We won't ever revise payments <i>down</i> in the middle of a payment period (week), but in cases where a role is unprofitable there is a chance payments could be revised <i>up</i>.
 
 Rome is set to be launched on Monday 16th March. Read more about the procedure for the release [here](https://blog.joystream.org/from-acropolis-to-rome/). Updated guides for testnet roles will be released on Sunday 15th March. Prospective participants should familiarize themselves with these guides before launch for the best chance of winning a spot in one of these competitive roles.
 
@@ -170,7 +170,7 @@ Council Members
 
 Council Members are elected by the stakeholders in the system to act in the interest of their constituency. Somewhat simplified, the Council will allocate the platform's resources, and hire executive personnel to run the day to day. We are looking at how to best incentivize them to act in the platform's long-term interest.
 
-If during your term a proposal to upgrade the runtime is submitted by the `sudo` key, anyone that votes `yes` will receive a bonus worth $10. A detailed explanation the election cycle and responsibilities can be found [here](https://github.com/Joystream/helpdesk/tree/master/roles/council-members).
+If during your term a proposal to upgrade the runtime is submitted by the `sudo` key, anyone that votes `yes` will receive a bonus worth $10. A detailed explanation of the election cycle and responsibilities can be found [here](https://github.com/Joystream/helpdesk/tree/master/roles/council-members).
 
 During the `Announcement` and `Voting` stage, you should include some information about yourself, and why you should get elected in your `memo` field. If you do get elected, make sure to change the `memo` field to your monero address in order to get your reward.
 
@@ -211,7 +211,7 @@ The contributor must include either their Joystream or monero address when submi
 
 #### Disclaimer
 
-All forward looking statements, estimates and commitments found in this blog post should be understood to be highly uncertain, not binding and for which no guarantees of accuracy or reliability can be provided. To the fullest extent permitted by law, in no event shall Joystream, Jsgenesis or our affiliates, or any of our directors, employees, contractors,  service providers or agents have any liability whatsoever to any person  for any direct or indirect loss, liability, cost, claim, expense or  damage of any kind, whether in contract or in tort, including negligence, or otherwise, arising out of or related to the use of all or  part of this post, or any links to third party websites.
+All forward looking statements, estimates and commitments found in this blog post should be understood to be highly uncertain, not binding and for which no guarantees of accuracy or reliability can be provided. To the fullest extent permitted by law, in no event shall Joystream, Jsgenesis or our affiliates, or any of our directors, employees, contractors,  service providers or agents have any liability whatsoever to any person for any direct or indirect loss, liability, cost, claim, expense or damage of any kind, whether in contract or in tort, including negligence, or otherwise, arising out of or related to the use of all or part of this post, or any links to third party websites.
 
 #### Preview
 
