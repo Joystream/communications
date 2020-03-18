@@ -30,7 +30,7 @@ A copy of all posts from our [ghost](https://github.com/TryGhost/Ghost) [blog](h
 
 #### Published Posts
 | Title                                                                         | URL                           | Published| Category              |
-| ------------------------------------------------------------------------------|------------------------------ | ---------| --------------        |
+| ------------------------------------------------------------------------------|-------------------------------|----------|-----------------------|
 | [Welcome to the new Joystream Blog](/blog/welcome-to-the-new-joystream-blog)  | /welcome                      | 05.12.18 | General               |
 | [The Joystream Manifesto](/blog/the-joystream-manifesto)                      | /manifesto                    | 05.12.18 | General               |
 | [Introducing Jsgenesis](/blog/introducing-jsgenesis)                          | /jsgenesis                    | 11.12.19 | General               |
@@ -48,22 +48,24 @@ A copy of all posts from our [ghost](https://github.com/TryGhost/Ghost) [blog](h
 | [Joystream Platform Roles](/blog/platform-roles)                              | /platform-roles/              | 04.06.19 | General               |
 | [The Acropolis Incentive Structure](/blog/acropolis-incentives)               | /acropolis-incentives         | 21.06.19 | Release - Acropolis   |
 | [Acropolis Released](/blog/acropolis-released)                                | /acropolis-released           | 24.06.19 | Release - Acropolis   |
-| [Announcing Rome](/blog/announcing-rome)                                      | /announcing-rome             | 23.08.19 | Release - Rome        |
-| [Announcing New Brand Identity](/blog/announcing-new-branding)         | /announcing-new-branding/ | 21.01.20       | General      |
-
+| [Announcing Rome](/blog/announcing-rome)                                      | /announcing-rome              | 23.08.19 | Release - Rome        |
+| [Announcing New Brand Identity](/blog/announcing-new-branding)                | /announcing-new-branding/     | 21.01.20 | General               |
+| [From Acropolis To Rome](/blog/from-acropolis-to-rome)                        | /from-acropolis-to-rome/      | 11.03.20 | Release - Rome        |
+| [The Rome Incentive Structure](/blog/rome-incentives)                         | /rome-incentives              | 14.03.20 | Release - Rome        |
+| [The Rome Incentive Structure](/blog/rome-released)                           | /rome-released                | 17.03.20 | Release - Rome        |
 
 #### Drafts and Unpublished Posts
-| Title                                                                                | URL                                      | Status            | Category              |
-| -------------------------------------------------------------------------------------|------------------------------------------| ------------------| --------------        |
-| -         | - | -       | -      |
+| Title                                                                                | URL                                      | Status            | Category          |
+| -------------------------------------------------------------------------------------|------------------------------------------|-------------------|-------------------|
+| NA                                                                                   | NA                                       | NA                | NA                |
 
 
 
 #### Aborted Planned Posts
-| Title                                                                                | URL                                      | Status            | Category              |
-| -------------------------------------------------------------------------------------|------------------------------------------| ------------------| --------------        |
-| [Sparta - Install the UI on Windows/Mac](/blog/drafts-unpublished/sparta-ui)         | /p/8e8f08a6-08d5-4a64-9f08-08aedd0d5719/ | Never Published       | Release - Sparta      |
-| [Supply Signature Temporarily](/blog/drafts-unpublished/supply-signature-temporarily)| /p/dbbfe66d-4af3-42f3-93fb-9cde97721988/ | Never Published       | Release - Sparta      |
+| Title                                                                                | URL                                      | Status            | Category          |
+| -------------------------------------------------------------------------------------|------------------------------------------|-------------------|-------------------|
+| [Sparta - Install the UI on Windows/Mac](/blog/drafts-unpublished/sparta-ui)         | /p/8e8f08a6-08d5-4a64-9f08-08aedd0d5719/ | Never Published   | Release - Sparta  |
+| [Supply Signature Temporarily](/blog/drafts-unpublished/supply-signature-temporarily)| /p/dbbfe66d-4af3-42f3-93fb-9cde97721988/ | Never Published   | Release - Sparta  |
 
 
 ## Newsletter
