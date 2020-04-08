@@ -6,7 +6,7 @@ Announcing Constantinople
 
 #### Purpose
 
-Announcing our next testnet, Constantinople
+Sharing plans for our upcoming Constantinople testnet
 
 #### url
 
@@ -18,7 +18,7 @@ blog.joystream.org/announcing-constantinople/
 
 #### Lead
 
-Since the succesful launch of the Rome testnet in late March, we have begun work on our next release, codenamed Constantinople.
+After the successful launch of the Rome testnet in late March, we have already begun work on our next release, codenamed Constantinople.
 
 #### Body
 
@@ -26,27 +26,35 @@ Since the succesful launch of the Rome testnet in late March, we have begun work
 
 ## What is Constantinople?
 
-The Rome network will revolve around one key platform feature - a dynamic, flexible and user friendly content directory. Our reasoning for focusing on this task, that may seem narrow and trivial at first glance, is the long term value of it:
+Constantinople will be a considerably smaller release than Rome in terms of scope and technical complexity, with no new roles introduced and no major changes to the testnet structure. 
 
--   The platform will allow for new *types* of content and data, with as little friction as possible.
--   Adding metadata to existing content, improving the user experience through better search, etc.
+The focus of Constantinople will rather be on the governance side of our project, with features introduced aimed at enhancing this (up until now) rather neglected but fundamental dimension of the Joystream vision.
 
-You can read more details about Rome in our [release plan](https://github.com/Joystream/joystream/tree/master/testnets/rome).
+As part of this, there are two major changes which will differentiate Constantinople from Rome:
 
-## Shorter Release
+1) A new proposal system
+2) A fiat-backed token compensation scheme for platform actors
 
-As for previous testnets, we will continue to [pay community members for participating](https://blog.joystream.org/pay-for-play/). In addition to the existing roles, `Validator`, `Council Member` and `Storage Provider`, we will add one new *paid* role, the `Content Curator`.
-
-In short, the `Content Curator` will be responsible for monitoring the content directory. A more detailed description of their responsibilities, requirements and rewards will be covered in a future blog post.
-
-In addition to that, platform `members` will be able to create `Content Creator` profiles associated with their membership. This will allow users to create multiple "channels" under the same membership handle.
-
-If you want general information about current and future roles on the Joystream network, go [here](https://www.joystream.org/roles) to read more, and sign up for the newsletter of the roles you find appealing.
+## New Proposal System
+One very important change will be a new proposal system. While our current system allows the council to vote on runtime upgrades, the new version will be considerably more advanced. Among other things, participants will be able to make proposals on how to spend platform funds (backed by USD), whether to kick storage providers, whether to mint new tokens, setting leads for roles and more.
 
 ## Fiat-Backed Token Model
 
+Another very important change for Constantinople will be the introduction of a fiat-backed compensation system for platform actors. We hope this more dynamic compensation system, rewarding community participation, should benefit the project in the long run.
 
-## New Proposal System
+Read more about the token model [here](https://github.com/Joystream/joystream/issues/171).
+
+## Shorter Release
+We are aiming to release Constantinople in approximately six weeks, so you should expect relatively minor changes to the fabric of the testnet when compared to Rome (which took almost nine months). Nonetheless, we hope the important changes to the governance system mentioned above should make Constantinople a more exciting and dynamic platform.
+
+If you would like to see how we're progressing with development of Constantinople, please take a look at our [GitHub projects](https://github.com/orgs/Joystream/projects).
+
+## Take Part
+As was the case with previous testnets, our community will be strongly encouraged to take part. Roles available for Constantinople will include: `Validator`, `Council Member`, `Storage Provider`, `Content Creator` and `Content Curator`.
+
+If you want general information about current and future roles on the Joystream network, go [here](https://www.joystream.org/roles) to read more, and sign up for the newsletter of the roles you find appealing.
+
+Guides for particpating in the active roles are also available in the [helpdesk repo](https://www.github.com/joystream/helpdesk).
 
 ---
 
@@ -56,7 +64,7 @@ All forward looking statements, estimates and commitments found in this blog pos
 
 #### Preview
 
-Rome - our next testnet, will revolve around a dynamic, flexible and user friendly content directory!
+https://blog.joystream.org/p/bf4e9d4b-9310-4b3f-9d0d-a3ab8c378cd5/
 
 #### Social media card cover
 
