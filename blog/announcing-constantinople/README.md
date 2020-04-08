@@ -35,10 +35,10 @@ As part of this, there are two major changes which will differentiate Constantin
 1) A new proposal system
 2) A fiat-backed token compensation scheme for platform actors
 
-## New Proposal System
+### New Proposal System
 One very important change will be a new proposal system. While our current system allows the council to vote on runtime upgrades, the new version will be considerably more advanced. Among other things, participants will be able to make proposals on how to spend platform funds (backed by USD), whether to kick storage providers, whether to mint new tokens, setting leads for roles and more.
 
-## Fiat-Backed Token Model
+### Fiat-Backed Token Model
 
 Another very important change for Constantinople will be the introduction of a fiat-backed compensation system for platform actors. We hope this more dynamic compensation system, rewarding community participation, should benefit the project in the long run.
 
