@@ -57,7 +57,7 @@ A copy of all posts from our [ghost](https://github.com/TryGhost/Ghost) [blog](h
 #### Drafts and Unpublished Posts
 | Title                                                                                | URL                                      | Status            | Category          |
 | -------------------------------------------------------------------------------------|------------------------------------------|-------------------|-------------------|
-| NA                                                                                   | NA                                       | NA                | NA                |
+| [The Rome Incentive Structure](/blog/drafts-unpublished/announcing-constantinople)   | p/91f24e6c-827f-4850-8b55-f2a623c92c93/  | Draft             | Release - Constantinople  |
 
 
 
@@ -66,7 +66,6 @@ A copy of all posts from our [ghost](https://github.com/TryGhost/Ghost) [blog](h
 | -------------------------------------------------------------------------------------|------------------------------------------|-------------------|---------------------------|
 | [Sparta - Install the UI on Windows/Mac](/blog/drafts-unpublished/sparta-ui)         | /p/8e8f08a6-08d5-4a64-9f08-08aedd0d5719/ | Never Published   | Release - Sparta          |
 | [Supply Signature Temporarily](/blog/drafts-unpublished/supply-signature-temporarily)| /p/dbbfe66d-4af3-42f3-93fb-9cde97721988/ | Never Published   | Release - Sparta          |
-| [The Rome Incentive Structure](/blog/drafts-unpublished/announcing-constantinople)   | p/91f24e6c-827f-4850-8b55-f2a623c92c93/  | Draft             | Release - Constantinople  |
 
 
 ## Newsletter
