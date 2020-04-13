@@ -32,7 +32,7 @@ While Rome was a great leap forward in terms of laying the groundwork for a dyna
 * A new incentive structure, with a fiat (USD) pool backing the testnet tokens, setting up a more realistic economic system for the platform
 
 #### New Proposal System
-Rather than Jsgenesis setting the role parameters, hiring and firing, and running the platforms token economy through a top-down approach, Constantinople will introduce a bottom-up system where members can make proposals that the `Council` will vote on
+Rather than Jsgenesis setting the role parameters, hiring and firing, and running the platforms token economy through a top-down approach, Constantinople will introduce a bottom-up system where members can make proposals that the `Council` will vote on.
 
 While our current system allows the council to vote on runtime upgrades, the new system will allow proposals to kick storage providers, new tokens for various reasons, setting leads for roles and more.
 
@@ -47,7 +47,7 @@ Combined, these changes set in motion a new era of governance and "tokenomics", 
 
 We are aiming to release Constantinople in approximately four weeks, and will in general target shorter and more incremental releases and release cycles going forward.
 
-Further updates will be posted when we are closer to launch, but if you would like to see how we're progressing with development of Constantinople, please take a look at our  [GitHub projects](https://github.com/orgs/Joystream/projects).
+Further updates will be posted when we are closer to launch, but if you would like to see how we're progressing with development of Constantinople, please take a look at our [GitHub projects](https://github.com/orgs/Joystream/projects).
 
 ---
 

@@ -29,35 +29,36 @@ A copy of all posts from our [ghost](https://github.com/TryGhost/Ghost) [blog](h
 `URL` refers to blog.joystream.org/`url`
 
 #### Published Posts
-| Title                                                                         | URL                           | Published| Category              |
-| ------------------------------------------------------------------------------|-------------------------------|----------|-----------------------|
-| [Welcome to the new Joystream Blog](/blog/welcome-to-the-new-joystream-blog)  | /welcome                      | 05.12.18 | General               |
-| [The Joystream Manifesto](/blog/the-joystream-manifesto)                      | /manifesto                    | 05.12.18 | General               |
-| [Introducing Jsgenesis](/blog/introducing-jsgenesis)                          | /jsgenesis                    | 11.12.19 | General               |
-| [Launching Testnet - Mesopotamia](/blog/launching-testnet-mesopotamia)        | /mesopotamia                  | 21.12.19 | Release - Mesopotamia |
-| [Earn Monero on Sparta Testnet](/blog/earn-monero-on-sparta-testnet)          | /pay-for-play                 | 12.02.19 | Release - Sparta      |
-| [The Sparta Incentives Structure](/blog/the-sparta-incentive-structure)       | /sparta-incentives-structure  | 21.02.19 | Release - Sparta      |
-| [Sparta Released](/blog/sparta-released)                                      | /sparta                       | 28.02.19 | Release - Sparta      |
-| [On-chain Consensus Upgrades Without Hardforks](/blog/on-chain-upgrades)      | /upgrades                     | 26.03.19 | Technical             |
-| [Whitepaper Published](/blog/whitepaper-published)                            | /whitepaper-published         | 27.03.19 | Technical             |
-| [The Sack of Sparta](/blog/the-sack-of-sparta)                                | /sparta-sacked                | 01.04.19 | Release - Sparta      |
-| [From Sparta to Athens](blog/from-sparta-to-athens)                           | /sparta-to-athens             | 03.04.19 | Release - Athens      |
-| [Athens Incentive Structure](/blog/the-athens-incentive-structure)            | /athens-incentives            | 15.04.19 | Release - Athens      |
-| [Athens Released](/blog/athens-released)                                      | /athens-released              | 17.04.19 | Release - Athens      |
-| [Announcing Acropolis](/blog/announcing-acropolis)                            | /announcing-acropolis         | 20.05.19 | Release - Acropolis   |
-| [Joystream Platform Roles](/blog/platform-roles)                              | /platform-roles/              | 04.06.19 | General               |
-| [The Acropolis Incentive Structure](/blog/acropolis-incentives)               | /acropolis-incentives         | 21.06.19 | Release - Acropolis   |
-| [Acropolis Released](/blog/acropolis-released)                                | /acropolis-released           | 24.06.19 | Release - Acropolis   |
-| [Announcing Rome](/blog/announcing-rome)                                      | /announcing-rome              | 23.08.19 | Release - Rome        |
-| [Announcing New Brand Identity](/blog/announcing-new-branding)                | /announcing-new-branding/     | 21.01.20 | General               |
-| [From Acropolis To Rome](/blog/from-acropolis-to-rome)                        | /from-acropolis-to-rome/      | 11.03.20 | Release - Rome        |
-| [The Rome Incentive Structure](/blog/rome-incentives)                         | /rome-incentives              | 14.03.20 | Release - Rome        |
-| [The Rome Incentive Structure](/blog/rome-released)                           | /rome-released                | 17.03.20 | Release - Rome        |
+| Title                                                                         | URL                           | Published| Category                 |
+| ------------------------------------------------------------------------------|-------------------------------|----------|--------------------------|
+| [Welcome to the new Joystream Blog](/blog/welcome-to-the-new-joystream-blog)  | /welcome                      | 05.12.18 | General                  |
+| [The Joystream Manifesto](/blog/the-joystream-manifesto)                      | /manifesto                    | 05.12.18 | General                  |
+| [Introducing Jsgenesis](/blog/introducing-jsgenesis)                          | /jsgenesis                    | 11.12.19 | General                  |
+| [Launching Testnet - Mesopotamia](/blog/launching-testnet-mesopotamia)        | /mesopotamia                  | 21.12.19 | Release - Mesopotamia    |
+| [Earn Monero on Sparta Testnet](/blog/earn-monero-on-sparta-testnet)          | /pay-for-play                 | 12.02.19 | Release - Sparta         |
+| [The Sparta Incentives Structure](/blog/the-sparta-incentive-structure)       | /sparta-incentives-structure  | 21.02.19 | Release - Sparta         |
+| [Sparta Released](/blog/sparta-released)                                      | /sparta                       | 28.02.19 | Release - Sparta         |
+| [On-chain Consensus Upgrades Without Hardforks](/blog/on-chain-upgrades)      | /upgrades                     | 26.03.19 | Technical                |
+| [Whitepaper Published](/blog/whitepaper-published)                            | /whitepaper-published         | 27.03.19 | Technical                |
+| [The Sack of Sparta](/blog/the-sack-of-sparta)                                | /sparta-sacked                | 01.04.19 | Release - Sparta         |
+| [From Sparta to Athens](blog/from-sparta-to-athens)                           | /sparta-to-athens             | 03.04.19 | Release - Athens         |
+| [Athens Incentive Structure](/blog/the-athens-incentive-structure)            | /athens-incentives            | 15.04.19 | Release - Athens         |
+| [Athens Released](/blog/athens-released)                                      | /athens-released              | 17.04.19 | Release - Athens         |
+| [Announcing Acropolis](/blog/announcing-acropolis)                            | /announcing-acropolis         | 20.05.19 | Release - Acropolis      |
+| [Joystream Platform Roles](/blog/platform-roles)                              | /platform-roles               | 04.06.19 | General                  |
+| [The Acropolis Incentive Structure](/blog/acropolis-incentives)               | /acropolis-incentives         | 21.06.19 | Release - Acropolis      |
+| [Acropolis Released](/blog/acropolis-released)                                | /acropolis-released           | 24.06.19 | Release - Acropolis      |
+| [Announcing Rome](/blog/announcing-rome)                                      | /announcing-rome              | 23.08.19 | Release - Rome           |
+| [Announcing New Brand Identity](/blog/announcing-new-branding)                | /announcing-new-branding      | 21.01.20 | General                  |
+| [From Acropolis To Rome](/blog/from-acropolis-to-rome)                        | /from-acropolis-to-rome       | 11.03.20 | Release - Rome           |
+| [The Rome Incentive Structure](/blog/rome-incentives)                         | /rome-incentives              | 14.03.20 | Release - Rome           |
+| [The Rome Incentive Structure](/blog/rome-released)                           | /rome-released                | 17.03.20 | Release - Rome           |
+| [Announcing Constantinople](/blog/announcing-constantinople)                  | /announcing-constantinople    | 13.04.20 |Release - Constantinople  |
 
 #### Drafts and Unpublished Posts
 | Title                                                                                | URL                                      | Status            | Category          |
 | -------------------------------------------------------------------------------------|------------------------------------------|-------------------|-------------------|
-| [Announcing Constantinople](/blog/drafts-unpublished/announcing-constantinople)   | p/91f24e6c-827f-4850-8b55-f2a623c92c93/  | Draft             | Release - Constantinople  |
+|||||
 
 
 
