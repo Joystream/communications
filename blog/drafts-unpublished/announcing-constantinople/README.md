@@ -18,7 +18,7 @@ blog.joystream.org/announcing-constantinople/
 
 #### Lead
 
-Constantinople will be a considerably faster release than Rome, focusing more on governance, and designed to create a more realistic incentive structure.
+Constantinople will be a considerably faster release than Rome, focusing more on governance and designed to establish a more effective incentive structure.
 
 #### Body
 
@@ -26,24 +26,24 @@ Constantinople will be a considerably faster release than Rome, focusing more on
 
 ## What is Constantinople?
 
-Whereas Rome was a great leap forward in terms of creating a dynamic and flexible content directory for the future, the improvements was rather low level, and not very visible and tangible at this stage. Constantinople on the other hand will introduce features that will immediately impact current users, with two major changes affecting the governance and the economic structure of the platform:
+While Rome was a great leap forward in terms of laying the groundwork for a dynamic and flexible content directory for the future, the improvements made were rather low-level, and made little difference to the activities of regular testnet participants. Constantinople, on the other hand, introduces features that will immediately impact current users, with two major changes affecting the governance and the economic structure of the platform:
 
-* A proposal system that changes the governance of the platform, by shifting the day to day responsibility of monitoring the network and allocating resources to the Voters and the Council
-* A new incentive structure, with a fiat pool backing the testnet tokens, creating a more realistic economic system for the platform
+* A proposal system that strengthens the governance structure of the platform, shifting the day to day responsibility of monitoring the network and allocating resources to voters and the `Council`.
+* A new incentive structure, with a fiat (USD) pool backing the testnet tokens, setting up a more realistic economic system for the platform
 
 #### New Proposal System
-Instead of Jsgenesis setting the role parameters, hiring and firing, and running the platforms token economy through a top down approach, Constantinople will introduce a bottom up system where members can make proposal that the Council will vote on
+Rather than Jsgenesis setting the role parameters, hiring and firing, and running the platforms token economy through a top-down approach, Constantinople will introduce a bottom-up system where members can make proposals that the `Council` will vote on
 
 While our current system allows the council to vote on runtime upgrades, the new system will allow proposals to kick storage providers, new tokens for various reasons, setting leads for roles and more.
 
 #### Fiat-Backed Token Model
 
-Another very important change for Constantinople will be the introduction of a fiat-backed compensation system for platform actors. We hope this more dynamic compensation system will help to incentivize and reward community participation, and create a far more realistic economic system that will benefit the project in the long run.
+Another very important change for Constantinople will be the introduction of a fiat-backed compensation system for platform actors. We hope this more dynamic compensation scheme will help to incentivize and reward community participation, and create a far more realistic economic system that will benefit the project in the long run.
 
 You can read more about the design of this model [here](https://github.com/Joystream/joystream/issues/171).
 
 ## Summary and Timeline
-Combined, these changes creates a new era of governance and "tokenomics", where all participants will have to make rational economic decisions with their tokens and time, in order to maximize their rewards.
+Combined, these changes set in motion a new era of governance and "tokenomics", where all participants will have to make rational economic decisions with their tokens and time, in order to maximize their rewards.
 
 We are aiming to release Constantinople in approximately four weeks, and will in general target shorter and more incremental releases and release cycles going forward.
 
@@ -65,4 +65,4 @@ https://blog.joystream.org/p/91f24e6c-827f-4850-8b55-f2a623c92c93/
 
 #### Social media excerpt
 
-The next Joystream testnet, Constantinople, focuses on governance, and attempts to create a more realistic incentive structure.
+The next Joystream testnet, Constantinople, focuses on governance, and attempts to establish a more effective incentive structure.

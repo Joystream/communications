@@ -57,7 +57,7 @@ A copy of all posts from our [ghost](https://github.com/TryGhost/Ghost) [blog](h
 #### Drafts and Unpublished Posts
 | Title                                                                                | URL                                      | Status            | Category          |
 | -------------------------------------------------------------------------------------|------------------------------------------|-------------------|-------------------|
-| [The Rome Incentive Structure](/blog/drafts-unpublished/announcing-constantinople)   | p/91f24e6c-827f-4850-8b55-f2a623c92c93/  | Draft             | Release - Constantinople  |
+| [Announcing Constantinople](/blog/drafts-unpublished/announcing-constantinople)   | p/91f24e6c-827f-4850-8b55-f2a623c92c93/  | Draft             | Release - Constantinople  |
 
 
 
