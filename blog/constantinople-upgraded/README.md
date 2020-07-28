@@ -10,7 +10,7 @@ Inform users about Nicaea Upgrade
 
 #### url
 
-blog.joystream.org/constantinople-upgraded/
+blog.joystream.org/constantinople-upgrade/
 
 #### Cover
 
